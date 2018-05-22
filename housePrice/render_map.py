@@ -40,11 +40,3 @@ def draw_map(region_avgPrice_dict):
 
 if __name__=='__main__':
     draw_map(region_avgPrice_dict('lianjia.csv'))
-#
-# from pyecharts import Map
-# value = [50, 190, 253, 77, 65]
-# attr = ['成华区', '都江堰', '青羊区', '锦江区', '金牛区']
-# map = Map("成都地图示例", width=1200, height=600)
-# map.add("", attr, value, maptype='成都', is_visualmap=True,
-#         visual_text_color='#000')
-# map.render()
