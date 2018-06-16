@@ -20,6 +20,9 @@ pyecharts地图程序：生成简易的成都楼盘均价地图
 1. 参考网址：http://selenium-python-zh.readthedocs.io/en/latest/getting-started.html
 2. 编程思想：使用selenium模拟输入、点击，通过小区地址和名称获得其经纬度
 
+transform.c
+将各项数据转换为echarts散点图能用的格式。
+
 echarts调用百度API，显示详细房价地图（echarts_test文件夹中）
 1. 参考网址：https://blog.csdn.net/qq_35488769/article/details/78799964
             http://echarts.baidu.com/blog/2016/06/13/echarts-map-tutorial.html
