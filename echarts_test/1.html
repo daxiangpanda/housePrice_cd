@@ -1,0 +1,379 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>坐标转换</title>
+    <style>
+        html, body, #main {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+<div id="main"></div>
+<script src="./jquery-3.3.1.js"></script>
+<script src="http://api.map.baidu.com/api?v=20&ak=4o79KOEQfjmsgQmoSFwwOfjU0BibFcLq"></script>
+<script src="./echarts.js"></script>
+<script src="http://echarts.baidu.com/resource/echarts-gl-latest/dist/echarts-gl.min.js"></script>
+<script src="./bmap.min.js"></script>
+<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script>
+<script>
+    $(function() {
+        //雷达图渲染
+        function renderBrushed(params){
+            this.setOption({
+                //进行区域选择时,关闭百度地图的移动选项
+                bmap: {
+                    roam: 'scale'
+                }
+            })
+            var mainSeries = params.batch[0].selected[0];
+            var allSum = 0;
+            var count = 0;
+            var max = 0;
+            var min = null;
+            for (var i = 0; i < mainSeries.dataIndex.length; i++) {
+                var rawIndex = mainSeries.dataIndex[i];
+                var dataItem = data[rawIndex];
+                val = dataItem.value[2];
+                allSum += val
+                if(!min||val < min){
+                    min = val;
+                }
+                if(val > max){
+                    max = val;
+                }
+                count += 1;
+            }
+            var unitPrice = allSum / count;
+            this.setOption({
+                series:{
+                    title:'区域雷达图',
+                    id:"radarBrush",
+                    data:[[unitPrice,max,min]]
+                }
+            })
+        }
+        //时间戳转换函数
+        function getTime(timeStamp){
+            return new Date(parseInt(timeStamp) * 1000).toLocaleString().replace(/:\d{1,2}$/,' ');
+        }
+        //房价数据构造函数
+        function loadDatas(url,chart) {
+            data = [];
+            chart.showLoading()
+            $.ajax({
+                type:'post',
+                url:url,
+                data:paramters,
+                dataType:'json',
+                success:function (datas) {
+                    for (var i in datas) {
+                        data.push({name:{"address":datas[i]['address'],"sumPrice":datas[i]['sumPrice'],"city":datas[i]['city'],"size":datas[i]['size'],"roomNum":datas[i]['roomNum'],"orient":datas[i]['orient'],"time":getTime(datas[i]['time'])},value:[datas[i]['ln'],datas[i]['lat'],parseInt(datas[i]['unitPrice'])]});
+                    }
+                    chart.setOption({
+                        series:[{
+                            data: data
+                        }]
+                    })
+                    chart.hideLoading()
+                }
+            })
+        }
+        function loadDatasFromJson(url,chart){
+            data = []
+            $.getJSON(url,function(datas){
+                for (var i in datas) {
+                    data.push({name:{"address":datas[i]['address'],"sumPrice":datas[i]['sumPrice'],"city":datas[i]['city'],"size":datas[i]['size'],"roomNum":datas[i]['roomNum'],"orient":datas[i]['orient'],"time":getTime(datas[i]['time'])},value:[datas[i]['ln'],datas[i]['lat'],parseInt(datas[i]['unitPrice'])]});
+                }
+                chart.setOption({
+                    series:[{
+                        data: data
+                    }]
+                })
+                chart.hideLoading()
+            })
+        }
+
+        //echart加载设置
+        var option = {
+            /*
+             geo: {
+             map: 'china',
+             label: {
+             emphasis: {
+             show: false
+             }
+             },
+             itemStyle: {
+             normal: {
+             areaColor: '#323c48',
+             borderColor: '#111'
+             },
+             emphasis: {
+             areaColor: '#2a333d'
+             }
+             }
+             },
+             */
+            //加载百度地图组件
+            bmap: {
+                // 百度地图中心经纬度
+                center: [104.106714,30.681411],
+                // 百度地图缩放(即地图范围)
+                zoom: 12,
+                // 是否开启拖拽缩放，可以只设置 'scale' 或者 'move'
+                roam: 'true',
+                // 百度地图的自定义样式
+                mapStyle: {
+                    'styleJson': [
+                        {
+                            'featureType': 'water',
+                            'elementType': 'all',
+                            'stylers': {
+                                'color': '#031628'
+                            }
+                        },
+                        {
+                            'featureType': 'land',
+                            'elementType': 'geometry',
+                            'stylers': {
+                                'color': '#000102'
+                            }
+                        },
+                        {
+                            'featureType': 'highway',
+                            'elementType': 'all',
+                            'stylers': {
+                                'visibility': 'off'
+                            }
+                        },
+                        {
+                            'featureType': 'arterial',
+                            'elementType': 'geometry.fill',
+                            'stylers': {
+                                'color': '#000000'
+                            }
+                        },
+                        {
+                            'featureType': 'arterial',
+                            'elementType': 'geometry.stroke',
+                            'stylers': {
+                                'color': '#0b3d51'
+                            }
+                        },
+                        {
+                            'featureType': 'local',
+                            'elementType': 'geometry',
+                            'stylers': {
+                                'color': '#000000'
+                            }
+                        },
+                        {
+                            'featureType': 'railway',
+                            'elementType': 'geometry.fill',
+                            'stylers': {
+                                'color': '#000000'
+                            }
+                        },
+                        {
+                            'featureType': 'railway',
+                            'elementType': 'geometry.stroke',
+                            'stylers': {
+                                'color': '#08304b'
+                            }
+                        },
+                        {
+                            'featureType': 'subway',
+                            'elementType': 'geometry',
+                            'stylers': {
+                                'lightness': -70
+                            }
+                        },
+                        {
+                            'featureType': 'building',
+                            'elementType': 'geometry.fill',
+                            'stylers': {
+                                'color': '#000000'
+                            }
+                        },
+                        {
+                            'featureType': 'all',
+                            'elementType': 'labels.text.fill',
+                            'stylers': {
+                                'color': '#857f7f'
+                            }
+                        },
+                        {
+                            'featureType': 'all',
+                            'elementType': 'labels.text.stroke',
+                            'stylers': {
+                                'color': '#000000'
+                            }
+                        },
+                        {
+                            'featureType': 'building',
+                            'elementType': 'geometry',
+                            'stylers': {
+                                'color': '#022338'
+                            }
+                        },
+                        {
+                            'featureType': 'green',
+                            'elementType': 'geometry',
+                            'stylers': {
+                                'color': '#062032'
+                            }
+                        },
+                        {
+                            'featureType': 'boundary',
+                            'elementType': 'all',
+                            'stylers': {
+                                'color': '#465b6c'
+                            }
+                        },
+                        {
+                            'featureType': 'manmade',
+                            'elementType': 'all',
+                            'stylers': {
+                                'color': '#022338'
+                            }
+                        },
+                        {
+                            'featureType': 'label',
+                            'elementType': 'all',
+                            'stylers': {
+                                'visibility': 'on'
+                            }
+                        }
+                    ]
+                }
+            },
+            //提示框
+            tooltip:{
+                trigger:'item',
+                enterable:true,
+                formatter:function(content){
+                    var message =  content['data']['name'];
+                    var value = content['data']['value'];
+                    return '<div class="tooltip" >详细地址:'+message['address']+
+                        '<br>总价格:'+message['sumPrice']+'万<br>均价'+
+                        value[2]+"<br>面积:"+message['size']+'㎡ <br>'+
+                        '房型:'+message['roomNum']+
+                        "</div>";
+                },
+            },
+            //数据映射
+            visualMap:{
+                type: 'continuous',
+                min: 5000,
+                max: 40000,
+                calculable: true,
+                color: ['red','yellow','lightskyblue']
+            },
+            //工具栏外观
+            toolbox: {
+                feature: {
+                    myTool1: {
+                        show: true,
+                        title:"开启百度地图移动",
+                        icon: "image://http://localhost:8000/Image/icon/移动2.png",
+                        onclick: function (a) {
+                            mapChart.setOption({
+                                //手动开启百度地图的移动选项
+                                bmap: {
+                                    roam: 'true'
+                                }
+                            })
+                        }
+                    }
+                },
+                iconStyle: {
+                    normal: {
+                        borderColor: '#fff'
+                    },
+                    emphasis: {
+                        borderColor: '#b1e4ff'
+                    }
+                }
+            },
+            //区域选择工具栏
+            brush: {
+                brushStyle: {
+                    borderWidth: 2,
+                    color: 'rgba(0,0,0,0.2)',
+                    borderColor: 'green',
+                },
+                throttleType: 'debounce',
+                throttleDelay: 300,
+                outOfBrush: {
+
+                }
+            },
+            //雷达图
+            radar: {
+                radius:'20%',
+                center:['90%','25%'],
+                shape:'circle',
+                indicator: [
+                    {name: '平均价格', max: 30000},
+                    {name: '最高价格', max: 30000},
+                    {name: '最低价格', max: 30000},
+                ],
+                splitNumber: 3,
+                name: {
+                    textStyle: {
+                        color: '#fff',
+                        backgroundColor: '#999',
+                        borderRadius: 1,
+                        padding: [3, 5]
+                    }
+                },
+            },
+            series: [{
+                id:'main',
+                type: 'scatter',
+                // 使用百度地图坐标系
+                //large:true,
+                coordinateSystem: 'bmap',
+                // 数据格式跟在 geo 坐标系上一样，每一项都是 [经度，纬度，数值大小，其它维度...]
+
+                data: [],
+                symbolSize:4,
+                itemStyle: {
+                    normal: {
+                        color: 'rgba(37, 140, 249, 0.8)'
+                    }
+                },
+            },{
+                id:"radarBrush",
+                name: '武汉',
+                type: 'radar',
+                tooltip:{
+                    formatter:function(ret){
+                        return "该区域平均价格为:"+parseInt(ret['data'][0])+"<br>" +
+                            "最高价格为:"+ret['data'][1]+"<br>"+
+                            "最低价格为:"+ret['data'][2]+"<br>";
+                    }
+                },
+            }]
+        }
+        var paramters = {
+            "city":"湖北武汉",
+            "number":1000,
+            "isDataLimit":1
+        };
+        var mapChart = echarts.init($("#main")[0]);
+        mapChart.setOption(option);
+        mapChart.on('brushselected',renderBrushed);
+        var init = function(){
+            loadDatas("./house.json",mapChart);
+        }
+        init();
+    })
+</script>
+</body>
+</html>
