@@ -1,5 +1,5 @@
 # housePrice
-使用scrapy和pyecharts制作成都房价地图
+使用scrapy，selenium，echarts和pyecharts制作成都房价地图
 
 scrapy爬虫：爬取成都链家的楼盘信息
 
@@ -16,8 +16,12 @@ pyecharts地图程序：生成简易的成都楼盘均价地图
   
 2. 参考文档：http://pyecharts.org/#/
 
-echarts调用百度API，显示详细房价地图
+经纬度爬虫：
+1. 参考网址：http://selenium-python-zh.readthedocs.io/en/latest/getting-started.html
+2. 编程思想：使用selenium模拟输入、点击，通过小区地址和名称获得其经纬度
+
+echarts调用百度API，显示详细房价地图（echarts_test文件夹中）
 1. 参考网址：https://blog.csdn.net/qq_35488769/article/details/78799964
             http://echarts.baidu.com/blog/2016/06/13/echarts-map-tutorial.html
-
-
+2. 使用方法：用chrome浏览器打开"坐标转换.html"
+3. 编程思想：调用百度API画地图，调用echarts制作散点图、雷达图（数据来源ln_stat.txt：来源于经纬度爬虫生成的数据）
