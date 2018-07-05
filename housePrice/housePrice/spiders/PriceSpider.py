@@ -9,15 +9,15 @@ import sys
 
 
 class LianjiaSpider(Spider):
-    name = 'lianjia'
-
+    name = 'lianjia' 
+    # 请求头部
     headers = {
         'User-Agent':
         'Mozilla/5.0 '
         '(Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36',
     }
 
-
+    # 开始请求
     def start_requests(self):
 
         # url="https://cd.fang.lianjia.com/loupan/rs%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3/"
@@ -25,26 +25,26 @@ class LianjiaSpider(Spider):
 
         count=1
         urls=[]
-        while count<115:
+        while count<115:# 得到所有要请求的URL
             urls.append("https://cd.fang.lianjia.com/loupan/pg%s/"%str(count))
             count+=1
         for url in urls:
-            yield Request(url, headers=self.headers,encoding='utf-8')
+            yield Request(url, headers=self.headers,encoding='utf-8')# 生成请求，中间件收到响应会下载相应网页，返回给parse函数处理
 
-    def process_area(self,floorArea_list):
+    def process_area(self,floorArea_list):# 处理建筑面积的单位
         count = 0
-        span_pattern=re.compile('<\w+>(.*?)<\/\w+>')
+        span_pattern=re.compile('<\w+>(.*?)<\/\w+>') 
         for area in floorArea_list:
             m=span_pattern.match(area)
             area=floorArea_list[count]=m.group(1)
 
-            if len(area)==0:
+            if len(area)==0:# 如果链家未给出建面
                 floorArea_list[count]='unknown'
-            elif '~' in area or '-' in area:
+            elif '~' in area or '-' in area:# 如果建面的形式是xxx-xxx，计算均值
                 pattern = re.compile(r'[\u4e00-\u9fff]+\s*(\d+).*?(\d+).*')
                 m = pattern.match(area)
                 floorArea_list[count]=str(round((int(m.group(1))+int(m.group(2)))/2))
-            else:
+            else: #如果不用算均值
                 pattern = re.compile(r'[\u4e00-\u9fff]+\s*(\d+).*')
                 m = pattern.match(area)
                 floorArea_list[count]=m.group(1)
@@ -119,7 +119,7 @@ class LianjiaSpider(Spider):
                 sys.exit()
             count+=1
 
-
+        # 在item的各个Field中放入信息
         i=0
         while i<len(name_list):
             if num_list[i] != 'unknown':
