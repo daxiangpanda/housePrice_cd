@@ -58,12 +58,15 @@ class LianjiaSpider(Spider):
             return 233
 
         #楼盘名称
-        name_list=sel.xpath('//div[@class="resblock-desc-wrapper"]/div[@class="resblock-name"]/a[@class="name"]/text()').extract()#[count],start=0
+        name_list=sel.xpath('//div[@class="resblock-desc-wrapper"]/div[@class="resblock-name"]/a[@class="name "]/text()').extract()#[count],start=0
         #地区&地标
         pre_address_list=sel.xpath('//div[@class="resblock-location"]/span/text()').extract()
 
         #地址
         address_list=sel.xpath('//div[@class="resblock-location"]/a[@href]/text()').extract()
+        with open("response.txt","w") as f:
+            f.write(sel.response.text)
+        print(address_list)
         if len(name_list)!=len(address_list):
             print('ERR: len(name_list)!=len(address_list)')
             sys.exit()
