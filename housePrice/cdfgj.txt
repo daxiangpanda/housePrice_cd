@@ -1,0 +1,706 @@
+<html>
+<head>
+    <title>二手房-成都透明房产网</title>
+    <meta name="keywords" content="二手房列表">
+    <meta name="description" content="二手房列表">
+    <link type="text/css" rel="stylesheet" href="http://img.cdfgj.gov.cn/clf_static/esf/style-min.css?v=ms43lje=">
+    <script type="text/javascript" src="http://img.cdfgj.gov.cn/clf_static/funi-min.js?v=ms43lje="></script>
+    <style>
+        .th-w-10{width: 10%;}
+        .th-w-15{width: 15%;}
+        .th-w-20{width: 20%}
+        .th-w-25{width: 25%}
+        .th-w-30{width: 30%}
+        .th-w-40{width: 40%}
+        .th-w-50{width: 50%}
+    </style>
+    </head>
+<body>
+<div class="header clearfix">
+    <div class="esf-top clearfix">
+        <div class="esf-top-content">
+            <div class="f-left">
+                <a href="http://zf.cdfgj.gov.cn">租赁</a>
+                <a href="http://esf.cdfgj.gov.cn" class="on">买卖</a>
+            </div>
+        </div>
+    </div>
+    <div class="min-top2 clearfix">
+    <h1><a href="/" title="成都住房租赁交易服务平台">成都住房租赁交易服务平台</a></h1>
+    <div class="nav clearfix">
+            <ul class="sub-menu">
+                <li><a href="/">首页</a></li>
+                <li><a class="on">我要买房</a>
+                    <ul class="undis">
+                        <li><a href="/search">找二手房</a></li>
+                        <li><a href="/require/list">发布买房需求</a></li>
+                    </ul>
+                </li>
+                <li><a href="/sell/index">我要卖房</a>
+                    <ul class="undis">
+                        <li><a href="/publish">房源发布</a></li>
+                        <li><a href="/revoke">房源撤销</a></li>
+                        <li><a href="/jg/map">找中介</a></li>
+                        <li><a href="/require/list">找买方</a></li>
+                        <li><a href="https://sqspf.cdfgj.gov.cn/shfreesign?regioncode=510100" target="_blank"><span>存量房买卖合同签约</span></a></li>
+                        <li><a href="https://sqspf.cdfgj.gov.cn/template/OwnerShiftExp.html" target="_blank">网上预约服务</a></li>
+                    </ul>
+                </li>
+                <li><a href="/loan/index">我要贷款</a>
+                    <ul class="undis">
+                        <li><a href="/loan/list?type=ACCUMULATION_FUND">公积金贷款</a></li>
+                        <li><a href="/loan/list?type=BUSINESS_LOAN">商业贷款</a></li>
+                        <li><a href="/loan/list?type=MIXTURE">组合贷款</a></li>
+
+                    </ul>
+                </li>
+                <li><a href="/jg/map">我要找中介</a>
+                    <ul class="undis">
+                        <li><a href="/jg/map">找中介机构</a></li>
+                        <li><a href="/agent/list">找经纪人</a></li>
+                    </ul>
+                </li>
+                <li><a href="/evaluate/org/list">评价信息</a></li>
+                <li><a href="/credit/index">信用信息</a>
+                    <ul class="undis">
+                        <li><a href="/publicity/orgCheckPublicityList">检查公示</a></li>
+                        <li><a href="/credit/org/blacklist">黑名单</a></li>
+                        <li><a href="/credit/org/redlist">红名单</a></li>
+                        <li><a href="/help/tstel">投诉渠道</a></li>
+                    </ul>
+                </li>
+                <li><a href="/deal/jySearch">交易进度查询</a></li>
+                <li><a href="/news/list?bizType=AGENT">政策法规</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script>
+    var City = {
+        name: "成都",
+        piny: "www"
+    };
+</script>
+
+<div class="wraper">
+    
+<div class="main list">
+    <!--搜索-->
+    <div class="sousuo clearfix">
+        <div class="search">
+            <form action="">
+                <input type="text" name="keyword" value="" placeholder="
+请输入小区名称、房源核验码" x-webkit-speech="" class="placeholder ac_input" id="headsearch" autocomplete="off">
+                <button type="submit">搜索</button>
+            </form>
+        </div>
+        <div class="icon-tool">
+            <p><a href="/map" target="_blank" class="map">地图找房</a>
+                <a href="/require/showCreate" target="_blank" class="house-sale">个人发布买房信息</a></p>
+        </div>
+    </div>
+    <!--区域-->
+    <div class="search-div col">
+        <div class="s-con">
+            <dl>
+                <dt><b>区域</b></dt>
+                <dd>
+                    <a href="?page=1&amp;qy=0&amp;fb=0" class="on" title="不限">不限</a>
+        <a href="?page=1&amp;qy=510104&amp;fb=0" title="锦江区">锦江区</a>
+        <a href="?page=1&amp;qy=510108&amp;fb=0" title="成华区">成华区</a>
+        <a href="?page=1&amp;qy=510106&amp;fb=0" title="金牛区">金牛区</a>
+        <a href="?page=1&amp;qy=510107&amp;fb=0" title="武侯区">武侯区</a>
+        <a href="?page=1&amp;qy=510105&amp;fb=0" title="青羊区">青羊区</a>
+        <a href="?page=1&amp;qy=510109&amp;fb=0" title="高新区">高新区</a>
+        <a href="?page=1&amp;qy=510142&amp;fb=0" title="天府新区">天府新区</a>
+        <a href="?page=1&amp;qy=510122&amp;fb=0" title="双流区">双流区</a>
+        <a href="?page=1&amp;qy=510114&amp;fb=0" title="新都区">新都区</a>
+        <a href="?page=1&amp;qy=510124&amp;fb=0" title="郫都区">郫都区</a>
+        <a href="?page=1&amp;qy=510115&amp;fb=0" title="温江区">温江区</a>
+        <a href="?page=1&amp;qy=510112&amp;fb=0" title="龙泉驿区">龙泉驿区</a>
+        <a href="?page=1&amp;qy=510113&amp;fb=0" title="青白江区">青白江区</a>
+        <a href="?page=1&amp;qy=510181&amp;fb=0" title="都江堰市">都江堰市</a>
+        <a href="?page=1&amp;qy=510121&amp;fb=0" title="金堂县">金堂县</a>
+        <a href="?page=1&amp;qy=510129&amp;fb=0" title="大邑县">大邑县</a>
+        <a href="?page=1&amp;qy=510182&amp;fb=0" title="彭州市">彭州市</a>
+        <a href="?page=1&amp;qy=510184&amp;fb=0" title="崇州市">崇州市</a>
+        <a href="?page=1&amp;qy=510183&amp;fb=0" title="邛崃市">邛崃市</a>
+        <a href="?page=1&amp;qy=510132&amp;fb=0" title="新津县">新津县</a>
+        <a href="?page=1&amp;qy=510131&amp;fb=0" title="蒲江县">蒲江县</a>
+        <a href="?page=1&amp;qy=510180&amp;fb=0" title="简阳市">简阳市</a>
+        </dd>
+            </dl>
+            <dl>
+                <dt><b>总价</b></dt>
+                <dd>
+                    <a href="?page=1&amp;zj=0,0&amp;fb=0" class="on" title="不限">不限</a>
+        <a href="?page=1&amp;zj=0,300000&amp;fb=0" title="30万以下">30万以下</a>
+        <a href="?page=1&amp;zj=300000,400000&amp;fb=0" title="30-40万">30-40万</a>
+        <a href="?page=1&amp;zj=400000,500000&amp;fb=0" title="40-50万">40-50万</a>
+        <a href="?page=1&amp;zj=500000,600000&amp;fb=0" title="50-60万">50-60万</a>
+        <a href="?page=1&amp;zj=600000,800000&amp;fb=0" title="60-80万">60-80万</a>
+        <a href="?page=1&amp;zj=800000,1000000&amp;fb=0" title="80-100万">80-100万</a>
+        <a href="?page=1&amp;zj=1000000,1500000&amp;fb=0" title="100-150万">100-150万</a>
+        <a href="?page=1&amp;zj=1500000,2000000&amp;fb=0" title="150-200万">150-200万</a>
+        <a href="?page=1&amp;zj=2000000,0&amp;fb=0" title="200万以上">200万以上</a>
+        </dd>
+            </dl>
+            <dl>
+                <dt><b>面积</b></dt>
+                <dd>
+                    <a href="?page=1&amp;fb=0&amp;mj=0,0" class="on" title="不限">不限</a>
+        <a href="?page=1&amp;fb=0&amp;mj=0,50" title="50㎡以下">50㎡以下</a>
+        <a href="?page=1&amp;fb=0&amp;mj=50,70" title="50-70㎡">50-70㎡</a>
+        <a href="?page=1&amp;fb=0&amp;mj=70,90" title="70-90㎡">70-90㎡</a>
+        <a href="?page=1&amp;fb=0&amp;mj=90,110" title="90-110㎡">90-110㎡</a>
+        <a href="?page=1&amp;fb=0&amp;mj=110,130" title="110-130㎡">110-130㎡</a>
+        <a href="?page=1&amp;fb=0&amp;mj=130,150" title="130-150㎡">130-150㎡</a>
+        <a href="?page=1&amp;fb=0&amp;mj=150,200" title="150-200㎡">150-200㎡</a>
+        <a href="?page=1&amp;fb=0&amp;mj=200,300" title="200-300㎡">200-300㎡</a>
+        <a href="?page=1&amp;fb=0&amp;mj=300,0" title="300㎡以上">300㎡以上</a>
+        </dd>
+            </dl>
+            <dl>
+                <dt><b>房型</b></dt>
+                <dd>
+                    <a href="?page=1&amp;fx=0,0&amp;fb=0" class="on" title="不限">不限</a>
+        <a href="?page=1&amp;fx=1&amp;fb=0" title="一室">一室</a>
+        <a href="?page=1&amp;fx=2&amp;fb=0" title="二室">二室</a>
+        <a href="?page=1&amp;fx=3&amp;fb=0" title="三室">三室</a>
+        <a href="?page=1&amp;fx=4&amp;fb=0" title="四室">四室</a>
+        <a href="?page=1&amp;fx=4,0&amp;fb=0" title="四室以上">四室以上</a>
+        </dd>
+            </dl>
+            <dl>
+                <dt><b>来源</b></dt>
+                <dd>
+                    <a href="?page=1&amp;fb=0" class="on" title="不限">不限</a>
+        <a href="?page=1&amp;fb=PERSON" title="个人">个人</a>
+        <a href="?page=1&amp;fb=AGENT" title="经纪人">经纪人</a>
+        </dd>
+            </dl>
+            <dl class="last clearfix">
+                <dt><b>更多</b></dt>
+                <dd>
+                    <div class="choose clearfix">
+                        <div class="select_box">
+                            <input type="text" value="房龄" readonly>
+<ul class="select_ul clearfix">
+                                <li>
+        <a href="?fl=0,0&amp;page=1&amp;fb=0" title="不限">不限</a>
+    </li>
+<li>
+        <a href="?fl=0,2&amp;page=1&amp;fb=0" title="2年以下">2年以下</a>
+    </li>
+<li>
+        <a href="?fl=2,5&amp;page=1&amp;fb=0" title="2至5年">2至5年</a>
+    </li>
+<li>
+        <a href="?fl=5,10&amp;page=1&amp;fb=0" title="5至10年">5至10年</a>
+    </li>
+<li>
+        <a href="?fl=10,0&amp;page=1&amp;fb=0" title="10年以上">10年以上</a>
+    </li>
+</ul>
+                        </div>
+                        <div class="select_box">
+                            <input type="text" value="装修" readonly>
+<ul class="select_ul clearfix">
+                                <li>
+        <a href="?zx=0&amp;page=1&amp;fb=0" title="不限">不限</a>
+    </li>
+<li>
+        <a href="?zx=ROUGHCAST&amp;page=1&amp;fb=0" title="毛坯">毛坯</a>
+    </li>
+<li>
+        <a href="?zx=COMMON_DECORATION&amp;page=1&amp;fb=0" title="普通装修">普通装修</a>
+    </li>
+<li>
+        <a href="?zx=EXQUISITE_DECORATION&amp;page=1&amp;fb=0" title="精装修">精装修</a>
+    </li>
+<li>
+        <a href="?zx=LUXURIOUS_DECORATION&amp;page=1&amp;fb=0" title="豪华装修">豪华装修</a>
+    </li>
+</ul>
+                        </div>
+                        <div class="select_box">
+                            <input type="text" value="物业类型" readonly>
+<ul class="select_ul clearfix">
+                                <li>
+        <a href="?wy=0&amp;page=1&amp;fb=0" title="不限">不限</a>
+    </li>
+<li>
+        <a href="?wy=HOUSE&amp;page=1&amp;fb=0" title="普通住宅">普通住宅</a>
+    </li>
+<li>
+        <a href="?wy=VILLA&amp;page=1&amp;fb=0" title="别墅">别墅</a>
+    </li>
+<li>
+        <a href="?wy=OFFICE&amp;page=1&amp;fb=0" title="办公">办公</a>
+    </li>
+<li>
+        <a href="?wy=BUSINESS&amp;page=1&amp;fb=0" title="商业">商业</a>
+    </li>
+</ul>
+                        </div>
+                        <div class="select_box">
+                            <input type="text" value="楼层" readonly>
+<ul class="select_ul clearfix">
+                                <li>
+        <a href="?page=1&amp;lc=0,0&amp;fb=0" title="不限">不限</a>
+    </li>
+<li>
+        <a href="?page=1&amp;lc=0,6&amp;fb=0" title="6层以下">6层以下</a>
+    </li>
+<li>
+        <a href="?page=1&amp;lc=6,12&amp;fb=0" title="6-12层">6-12层</a>
+    </li>
+<li>
+        <a href="?page=1&amp;lc=12,0&amp;fb=0" title="12层以上">12层以上</a>
+    </li>
+</ul>
+                        </div>
+                    </div>
+                </dd>
+            </dl>
+        </div>
+    </div>
+    <div class="esf-house col">
+        <div class="pan-tab clearfix">
+            <dl>
+                <dt>
+                <p>找到二手房房源信息<i>62415</i>条</p></dt>
+                <dd>
+                    <span><em class="down"><a href="javascript:void(0)">
+                       最新</a></em><em class="">
+                        <a href="?order=down&amp;page=1&amp;sorter=total_price&amp;fb=0">总价</a>
+                    </em><em class=""><a href="?order=down&amp;page=1&amp;sorter=area&amp;fb=0">面积</a></em>
+                </span>
+                    <b class="fl-right btn-fb"><a href="/publish">+发布房源</a></b>
+                </dd>
+            </dl>
+        </div>
+        <div class="pan-con">
+            <div class="pan-item clearfix">
+                    <a target="_blank" href="/esf/7ab84c55-57db-457c-aab2-d989f06d2394" class="img" title="好房子">
+                        <img src="http://img.cdfgj.gov.cn/images/upload/98f/55b517ae476288296d2225171ed9.jpg.160x120.jpg" alt=""><span class="zj">中介</span></a>
+
+                    <h2><a href="/esf/7ab84c55-57db-457c-aab2-d989f06d2394" target="_blank">好房子</a></h2>
+
+                    <p class="p_hx">
+                        <em>70.55平米
+    </em><em>2室1厅1卫</em>
+                        <em>
+        高/33层
+    </em><em>2015年建造</em>
+                    </p>
+
+                    <p>
+                            汇融生活广场 [新都区方元路55号汇融生活广场4号楼2单元7室]
+                    </p>
+
+                    <p class="p_gx">
+                        <em>成都众诚房产经纪有限公司</em>
+                        <em><em>李敬</em></em>
+                            <em>2019-02-20 13:17:07 更新</em>
+                    </p>
+                    <strong class="h-price">6804元/平</strong>
+                    <strong class="total-price"><i>48万</i></strong>
+                    <strong class="heyan">
+                        <div class="yhy">已核验</div>
+                        <div class="ynum">
+                            <a href="/search?keyword=20180172654">20180172654</a>
+                            </div>
+                    </strong>
+                    <strong class="status-four">
+    <em class=" yellow" style="margin-left: 5px">已签约</em><em class="right-5 green" style="margin-left: 5px">有抵押</em> </strong>
+
+
+
+
+
+</div>
+            <div class="pan-item clearfix">
+                    <a target="_blank" href="/esf/78b45cab-825a-4105-8115-57962acda20b" class="img" title="中国水电·泛悦国际">
+                        <img src="http://img.cdfgj.gov.cn/images/upload/0a4/0a13a79647bcb8ae1fb738509bc6.jpg.160x120.jpg" alt=""><span class="zj">中介</span></a>
+
+                    <h2><a href="/esf/78b45cab-825a-4105-8115-57962acda20b" target="_blank">中国水电·泛悦国际</a></h2>
+
+                    <p class="p_hx">
+                        <em>97.26平米
+    </em><em>3室2厅2卫</em>
+                        <em>
+        低/34层
+    </em><em>2015年建造</em>
+                    </p>
+
+                    <p>
+                            中国水电·泛悦国际 [武侯区科华中路新6号中国水电·泛悦国际3号楼1单元1604室]
+                    </p>
+
+                    <p class="p_gx">
+                        <em>四川链家房地产经纪有限公司科华中...
+        </em>
+                        <em><em>王鹏</em></em>
+                            <em>2019-02-20 13:16:52 更新</em>
+                    </p>
+                    <strong class="h-price">28789元/平</strong>
+                    <strong class="total-price"><i>280万</i></strong>
+                    <strong class="heyan">
+                        <div class="yhy">已核验</div>
+                        <div class="ynum">
+                            <a href="/search?keyword=20190016884">20190016884</a>
+                            </div>
+                    </strong>
+                    <strong class="status-four">
+    <em class=" yellow" style="margin-left: 5px">可售</em><em class="right-5 green" style="margin-left: 5px">无抵押</em> </strong>
+
+
+
+
+
+</div>
+            <div class="pan-item clearfix">
+                    <a target="_blank" href="/esf/48c8056e-81dd-40e2-91a7-44ad581605f1" class="img" title="棠湖泊林城高层出售">
+                        <img src="http://img.cdfgj.gov.cn/images/upload/414/ff4ef7c54f68a79de3d96da4c8c1.jpg.160x120.jpg" alt=""><span class="zj">中介</span></a>
+
+                    <h2><a href="/esf/48c8056e-81dd-40e2-91a7-44ad581605f1" target="_blank">棠湖泊林城高层出售</a></h2>
+
+                    <p class="p_hx">
+                        <em>88.28平米
+    </em><em>3室2厅2卫</em>
+                        <em>
+        中/36层
+    </em><em>2015年建造</em>
+                    </p>
+
+                    <p>
+                            棠湖泊林城 [双流县双华路与迎宾大道交汇处 ]
+                    </p>
+
+                    <p class="p_gx">
+                        <em>四川链家房地产经纪有限公司泰华路...
+        </em>
+                        <em><em>杨建君</em></em>
+                            <em>2019-02-20 13:12:49 更新</em>
+                    </p>
+                    <strong class="h-price">11894元/平</strong>
+                    <strong class="total-price"><i>105万</i></strong>
+                    <strong class="heyan">
+                        <div class="yhy">已核验</div>
+                        <div class="ynum">
+                            <a href="/search?keyword=20190016883">20190016883</a>
+                            </div>
+                    </strong>
+                    <strong class="status-four">
+    <em class=" yellow" style="margin-left: 5px">可售</em><em class="right-5 green" style="margin-left: 5px">无抵押</em> </strong>
+
+
+
+
+
+</div>
+            <div class="pan-item clearfix">
+                    <a target="_blank" href="/esf/ecf160e7-8bff-4fba-9d2e-b614075b570e" class="img" title="金牛区 西线标准套三双卫">
+                        <img src="http://img.cdfgj.gov.cn/images/upload/0c9/bc8d421a4549a6ca9e57be0d9baf.jpg.160x120.jpg" alt=""><span class="zj">中介</span></a>
+
+                    <h2><a href="/esf/ecf160e7-8bff-4fba-9d2e-b614075b570e" target="_blank">金牛区 西线标准套三双卫</a></h2>
+
+                    <p class="p_hx">
+                        <em>89.53平米
+    </em><em>3室1厅2卫</em>
+                        <em>
+        中/18层
+    </em><em>2008年建造</em>
+                    </p>
+
+                    <p>
+                            西线阳光 [金牛区黄金路1号 ]
+                    </p>
+
+                    <p class="p_gx">
+                        <em>四川链家房地产经纪有限公司黄金东...
+        </em>
+                        <em><em>赖鑫</em></em>
+                            <em>2019-02-20 13:11:35 更新</em>
+                    </p>
+                    <strong class="h-price">12845元/平</strong>
+                    <strong class="total-price"><i>115万</i></strong>
+                    <strong class="heyan">
+                        <div class="yhy">已核验</div>
+                        <div class="ynum">
+                            <a href="/search?keyword=20190016882">20190016882</a>
+                            </div>
+                    </strong>
+                    <strong class="status-four">
+    <em class=" yellow" style="margin-left: 5px">可售</em><em class="right-5 green" style="margin-left: 5px">无抵押</em> </strong>
+
+
+
+
+
+</div>
+            <div class="pan-item clearfix">
+                    <a target="_blank" href="/esf/4dde7186-63a2-4dee-b0a9-c40d36ec18d4" class="img" title="蓝色理想套二">
+                        <img src="http://img.cdfgj.gov.cn/images/upload/500/1455a5b74345924b6a83145c6b2f.jpg.160x120.jpg" alt=""><span class="zj">中介</span></a>
+
+                    <h2><a href="/esf/4dde7186-63a2-4dee-b0a9-c40d36ec18d4" target="_blank">蓝色理想套二</a></h2>
+
+                    <p class="p_hx">
+                        <em>82.29平米
+    </em><em>2室2厅1卫</em>
+                        <em>
+        中/26层
+    </em><em>2008年建造</em>
+                    </p>
+
+                    <p>
+                            劲力蓝色理想 [龙泉驿区龙工南路888号]
+                    </p>
+
+                    <p class="p_gx">
+                        <em>四川链家房地产经纪有限公司绿洲分...
+        </em>
+                        <em><em>杨张</em></em>
+                            <em>2019-02-20 13:07:21 更新</em>
+                    </p>
+                    <strong class="h-price">9600元/平</strong>
+                    <strong class="total-price"><i>79万</i></strong>
+                    <strong class="heyan">
+                        <div class="yhy">已核验</div>
+                        <div class="ynum">
+                            <a href="/search?keyword=20190016881">20190016881</a>
+                            </div>
+                    </strong>
+                    <strong class="status-four">
+    <em class=" yellow" style="margin-left: 5px">可售</em><em class="right-5 green" style="margin-left: 5px">无抵押</em> </strong>
+
+
+
+
+
+</div>
+            <div class="pan-item clearfix">
+                    <a target="_blank" href="/esf/661eb7cf-7d54-4b5f-b2c7-784eebfb2827" class="img" title="卖房">
+                        <img src="http://img.cdfgj.gov.cn/images/upload/930/7ba4f45348d2b116ef983fd641cc.jpg.160x120.jpg" alt=""><span class="zj">中介</span></a>
+
+                    <h2><a href="/esf/661eb7cf-7d54-4b5f-b2c7-784eebfb2827" target="_blank">卖房</a></h2>
+
+                    <p class="p_hx">
+                        <em>97.64平米
+    </em><em>3室2厅1卫</em>
+                        <em>
+        低/6层
+    </em><em>1998年建造</em>
+                    </p>
+
+                    <p>
+                            天彭镇西大街社区居委会 [彭州市 ]
+                    </p>
+
+                    <p class="p_gx">
+                        <em>彭州市天彭镇明旺房屋中介信息部</em>
+                        <em><em>刘应芬</em></em>
+                            <em>2019-02-20 13:05:54 更新</em>
+                    </p>
+                    <strong class="h-price">3585元/平</strong>
+                    <strong class="total-price"><i>35万</i></strong>
+                    <strong class="heyan">
+                        <div class="yhy">已核验</div>
+                        <div class="ynum">
+                            <a href="/search?keyword=20190016879">20190016879</a>
+                            </div>
+                    </strong>
+                    <strong class="status-four">
+    <em class=" yellow" style="margin-left: 5px">可售</em><em class="right-5 green" style="margin-left: 5px">无抵押</em> </strong>
+
+
+
+
+
+</div>
+            <div class="pan-item clearfix">
+                    <a target="_blank" href="/esf/8b875e95-9f03-4921-9bd4-707f5df28787" class="img" title="上东阳光三期套三">
+                        <img src="http://img.cdfgj.gov.cn/images/upload/b25/e6fcf0404acfa9932d1e1ce95eca.jpg.160x120.jpg" alt=""><span class="zj">中介</span></a>
+
+                    <h2><a href="/esf/8b875e95-9f03-4921-9bd4-707f5df28787" target="_blank">上东阳光三期套三</a></h2>
+
+                    <p class="p_hx">
+                        <em>115.69平米
+    </em><em>3室2厅2卫</em>
+                        <em>
+        中/11层
+    </em><em>2008年建造</em>
+                    </p>
+
+                    <p>
+                            上东阳光三期 [龙泉驿区梧桐路60 ]
+                    </p>
+
+                    <p class="p_gx">
+                        <em>四川链家房地产经纪有限公司梧桐分...
+        </em>
+                        <em><em>丁仕林</em></em>
+                            <em>2019-02-20 13:04:32 更新</em>
+                    </p>
+                    <strong class="h-price">13398元/平</strong>
+                    <strong class="total-price"><i>155万</i></strong>
+                    <strong class="heyan">
+                        <div class="yhy">已核验</div>
+                        <div class="ynum">
+                            <a href="/search?keyword=20190016877">20190016877</a>
+                            </div>
+                    </strong>
+                    <strong class="status-four">
+    <em class=" yellow" style="margin-left: 5px">可售</em><em class="right-5 green" style="margin-left: 5px">无抵押</em> </strong>
+
+
+
+
+
+</div>
+            <div class="pan-item clearfix">
+                    <a target="_blank" href="/esf/0174caa1-4daa-45bb-8a02-a8f42487b515" class="img" title="锦江国际花园稀缺套二">
+                        <img src="http://img.cdfgj.gov.cn/images/upload/534/579b987a44f1b30f9d7bda71847b.jpg.160x120.jpg" alt=""><span class="zj">中介</span></a>
+
+                    <h2><a href="/esf/0174caa1-4daa-45bb-8a02-a8f42487b515" target="_blank">锦江国际花园稀缺套二</a></h2>
+
+                    <p class="p_hx">
+                        <em>72.41平米
+    </em><em>2室2厅1卫</em>
+                        <em>
+        中/34层
+    </em><em>2015年建造</em>
+                    </p>
+
+                    <p>
+                            锦江国际花园 [锦江区锦绣大道与驿都大道交汇处 ]
+                    </p>
+
+                    <p class="p_gx">
+                        <em>四川链家房地产经纪有限公司合欢树...
+        </em>
+                        <em><em>胡江</em></em>
+                            <em>2019-02-20 13:04:28 更新</em>
+                    </p>
+                    <strong class="h-price">18230元/平</strong>
+                    <strong class="total-price"><i>132万</i></strong>
+                    <strong class="heyan">
+                        <div class="yhy">已核验</div>
+                        <div class="ynum">
+                            <a href="/search?keyword=20190016876">20190016876</a>
+                            </div>
+                    </strong>
+                    <strong class="status-four">
+    <em class=" yellow" style="margin-left: 5px">可售</em><em class="right-5 green" style="margin-left: 5px">无抵押</em> </strong>
+
+
+
+
+
+</div>
+            <div class="pan-item clearfix">
+                    <a target="_blank" href="/esf/7b511d05-df67-4d26-9c32-815f9fb6dbf6" class="img" title="全兴花园标准户型，不临街。">
+                        <img src="http://img.cdfgj.gov.cn/images/upload/d2c/13a8db334d1c9c30c25c8d2152d3.jpg.160x120.jpg" alt=""><span class="zj">中介</span></a>
+
+                    <h2><a href="/esf/7b511d05-df67-4d26-9c32-815f9fb6dbf6" target="_blank">全兴花园标准户型，不临街。</a></h2>
+
+                    <p class="p_hx">
+                        <em>152.65平米
+    </em><em>3室2厅1卫</em>
+                        <em>
+        高/11层
+    </em><em>2003年建造</em>
+                    </p>
+
+                    <p>
+                            全兴花园二期 [金牛区九里堤南路99号 ]
+                    </p>
+
+                    <p class="p_gx">
+                        <em>四川链家房地产经纪有限公司圃园南...
+        </em>
+                        <em><em>钟诗雪</em></em>
+                            <em>2019-02-20 13:03:56 更新</em>
+                    </p>
+                    <strong class="h-price">16050元/平</strong>
+                    <strong class="total-price"><i>245万</i></strong>
+                    <strong class="heyan">
+                        <div class="yhy">已核验</div>
+                        <div class="ynum">
+                            <a href="/search?keyword=20190016875">20190016875</a>
+                            </div>
+                    </strong>
+                    <strong class="status-four">
+    <em class=" yellow" style="margin-left: 5px">可售</em><em class="right-5 green" style="margin-left: 5px">无抵押</em> </strong>
+
+
+
+
+
+</div>
+            <div class="pan-item clearfix">
+                    <a target="_blank" href="/esf/2eb1a5af-98fb-43ef-88f0-5ec9ee12ac6b" class="img" title="锦城国际">
+                        <img src="http://img.cdfgj.gov.cn/images/upload/76c/3dd8e3e14cfb915ea5b241217457.jpg.160x120.jpg" alt=""><span class="zj">中介</span></a>
+
+                    <h2><a href="/esf/2eb1a5af-98fb-43ef-88f0-5ec9ee12ac6b" target="_blank">锦城国际</a></h2>
+
+                    <p class="p_hx">
+                        <em>83.81平米
+    </em><em>2室2厅2卫</em>
+                        <em>
+        中/26层
+    </em><em>2014年建造</em>
+                    </p>
+
+                    <p>
+                            富丽锦城 [成华区西林一街18号 ]
+                    </p>
+
+                    <p class="p_gx">
+                        <em>成都鼎盟房地产经纪有限公司湖岸店</em>
+                        <em><em>王成</em></em>
+                            <em>2019-02-20 13:03:20 更新</em>
+                    </p>
+                    <strong class="h-price">6873元/平</strong>
+                    <strong class="total-price"><i>57.6万</i></strong>
+                    <strong class="heyan">
+                        <div class="yhy">已核验</div>
+                        <div class="ynum">
+                            <a href="/search?keyword=20190016874">20190016874</a>
+                            </div>
+                    </strong>
+                    <strong class="status-four">
+    <em class=" yellow" style="margin-left: 5px">已签约</em><em class="right-5 green" style="margin-left: 5px">有抵押</em> </strong>
+
+
+
+
+
+</div>
+            <div class="pages"><a href="?page=196&amp;fb=0" title="上一页">上页</a><a href="?page=1&amp;fb=0">1</a><span>...</span><a href="?page=194&amp;fb=0">194</a><a href="?page=195&amp;fb=0">195</a><a href="?page=196&amp;fb=0">196</a><a class="on">197</a><a href="?page=198&amp;fb=0">198</a><a href="?page=199&amp;fb=0">199</a><a href="?page=200&amp;fb=0">200</a><span>...</span><a href="?page=6242&amp;fb=0">6242</a><a href="?page=198&amp;fb=0" title="下一页" class="last">下页</a></div></div>
+    </div>
+</div>
+<script>
+    Funi.use("esf/base-min");
+</script>
+
+
+</div>
+<div class="foot">
+    <div class="foot-bar">
+        <div class="txt">
+            <p><span>主办单位：成都市住房和城乡建设局</span><em class="guid-btn"><a href="/help/clf" target="_blank">操作指南</a></em>
+            </p>
+            <p class="special">
+                <span>平台操作咨询电话：028-86279001</span>
+                <span>访问量：<i>210324369</i></span>
+            </p>
+        </div>
+    </div>
+</div>
+<script>
+    Funi.use("esf/base-min");
+</script>
+</body>
+</html>

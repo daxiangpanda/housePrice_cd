@@ -3,25 +3,42 @@ from selenium.webdriver.chrome.options import Options
 import time
 import re
 import sys
-from read_csv import csvReader
+# from read_csv import csvReader
+import csv
+import tqdm
+import multiprocessing
 
 def read_addresses():
     """
     :return:楼盘地址式信息的列表,楼盘名称式信息的列表
     """
     # 读取csv文件中的行，每一个行的信息存为一个字典，返回一个字典类型的列表
-    csv = csvReader()
-    maxtrix = csv.read_csv(r"lianjia.csv")
-    rows = csv.extract_matrix(maxtrix)
+    # csv = csvReader()
+    with open("housePrice_cd/housePrice/cdfgj.csv","r") as f:
+        maxtrix = list(csv.reader(f))
+    # maxtrix = csv.reader()
+    item_names = maxtrix[0]
+    rows = []
+    for row in maxtrix[1:]:
+        item_dic = {}
+        for name_index in range(len(item_names)):
+            item_dic[item_names[name_index]] = row[name_index]
+        rows.append(item_dic)
+    # rows = csv.extract_matrix(maxtrix)
     # 返回两个键入搜索框的列表
     address_list = []
     name_list = []
     for row in rows:
         if len(row['address'])!=0:
+            if("[" in row['address']):
+                row["address"] = row["address"].lstrip("[")
+            if("]" in row['address']):
+                row["address"] = row["address"].rstrip("]")
             address_list.append("成都市"+ row['address']+ row['name'])
             name_list.append("成都市"+ row['name'])
-    print('The address list is ', address_list)
-    print('The name list is ', name_list)
+    # print('The address list is ', address_list)
+    # print('The name list is ', name_list)
+    print(list(zip(address_list,name_list))[0])
     return address_list, name_list
 
 def write_line(datas):
@@ -90,12 +107,12 @@ if __name__=='__main__':
     chrome_options = Options()
     # chrome_options.add_argument('--headless')# 运行时关闭窗口
     # 使用同一目录下的chromedriver.exe进行模拟
-    driver = webdriver.Chrome('chromedriver',  chrome_options=chrome_options)
+    driver = webdriver.Chrome('/Applications/Google Chrome.app/chromedriver',  chrome_options=chrome_options)
     # 请求网页
     driver.get(url)
 
     count = 0
-    for a in addresses:
+    for a in tqdm.tqdm(addresses):
         driver.refresh()
         # if count<220:
         #     count+=1

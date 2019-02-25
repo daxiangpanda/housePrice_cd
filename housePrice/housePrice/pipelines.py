@@ -13,6 +13,7 @@ class HousepricePipeline(object):
         self.file = codecs.open('scraped_data_utf8.json', 'w', encoding='utf-8')
 
     def process_item(self, item, spider):
+        print('_______self.file%f',self.file)
         line = json.dumps(dict(item), ensure_ascii=False) + "\n"
         self.file.write(line)
         return item

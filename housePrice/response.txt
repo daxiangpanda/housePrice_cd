@@ -2,11 +2,11 @@
     <title>成都楼盘|新开盘楼盘|房价信息_成都楼盘(成都链家新房)</title>
     <meta name="description" content="成都链家新房频道,为你提供大量真实优质的成都新开盘楼盘、新房房价等信息快速查询,创造最佳新房购房体验." />
     <meta name="keywords" content="成都楼盘,成都房价" />
-<link href="/favicon.ico" type="image/x-icon" rel=icon><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" href="//s1.ljcdn.com/phoenix/static/dist/common/site.css?_v=20190110202758"><link rel="alternate" media="only screen and (max-width: 640px)" href="" >
-    <link rel="stylesheet" href="//s1.ljcdn.com/phoenix/static/dist/pages/list/index.css?_v=20190110202758">
+<link href="/favicon.ico" type="image/x-icon" rel=icon><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" href="//s1.ljcdn.com/phoenix/static/dist/common/site.css?_v=20190219155705"><link rel="alternate" media="only screen and (max-width: 640px)" href="" >
+    <link rel="stylesheet" href="//s1.ljcdn.com/phoenix/static/dist/pages/list/index.css?_v=20190219155705">
 <script>
 
-</script><!--[if lt IE 9]><script type="text/javascript" src="//s1.ljcdn.com/phoenix/static/dist/common/html5.js?_v=20190110202758"></script><![endif]-->
+</script><!--[if lt IE 9]><script type="text/javascript" src="//s1.ljcdn.com/phoenix/static/dist/common/html5.js?_v=20190219155705"></script><![endif]-->
 <script>
 function RESIZEIMG(b,k,l,m){var c=b.parentNode;var d=parseInt(c.offsetWidth)||k;var e=parseInt(c.offsetHeight)||l;var f=d/e;var g=b.naturalWidth||b.width;var h=b.naturalHeight||b.height;var i=g/h;var j="width";if(f<i){j="height";try{b.style["left"]="-"+parseInt(Math.abs((d-(g*e/h))/2))+"px"}catch(e){}}else if(m){try{b.style["top"]="-"+parseInt(Math.abs((e-(h*d/g))/2))+"px"}catch(e){}};b.style[j]="100%";};
 </script>
@@ -283,7 +283,7 @@ var LjUserTrack = {
         <div class="main-nav">
             <div class="main-left-wrapper">
                 <a href="/" class="logo" title="链家新房">
-                    <img src="//s1.ljcdn.com/phoenix/static/dist/common/img/logo@2x.png?_v=20190110202758" alt="新房logo">
+                    <img src="//s1.ljcdn.com/phoenix/static/dist/common/img/logo@2x.png?_v=20190219155705" alt="新房logo">
                 </a>
 	            
 <span class="nav-border"></span>
@@ -471,7 +471,6 @@ var LjUserTrack = {
                                                         <a href="//xn.fang.lianjia.com" title="咸宁房产网">咸宁</a>
                                                         <a href="//xsbn.fang.lianjia.com" title="西双版纳房产网">西双版纳</a>
                                                         <a href="//xa.fang.lianjia.com" title="西安房产网">西安</a>
-                                                        <a href="//xan.ke.com" title="雄安新区房产网">雄安新区</a>
                             
                         </div>
                     </li>
@@ -1643,7 +1642,7 @@ var LjUserTrack = {
                 <span class="total-price-nav on" data-xftrack="10246_1">按总价<i>(万)</i></span>
                 <span class="first-pay-nav" data-xftrack="10247_1">按单价<i>(元/平)</i></span>
             </div>
-            <div class="drag-brush total-price" data-value='{"key":"totalPriceEnum","value":null,"buckets":[{"key":"0","count":"0"},{"key":"7.5","count":"0"},{"key":"15.0","count":"7"},{"key":"22.5","count":"22"},{"key":"30.0","count":"47"},{"key":"37.5","count":"67"},{"key":"45.0","count":"103"},{"key":"52.5","count":"95"},{"key":"60.0","count":"101"},{"key":"67.5","count":"109"},{"key":"75.0","count":"103"},{"key":"82.5","count":"99"},{"key":"90.0","count":"106"},{"key":"97.5","count":"73"},{"key":"105.0","count":"87"},{"key":"112.5","count":"73"},{"key":"120.0","count":"91"},{"key":"127.5","count":"54"},{"key":"135.0","count":"52"},{"key":"142.5","count":"41"},{"key":"150.0","count":"56"},{"key":"157.5","count":"39"},{"key":"165.0","count":"36"},{"key":"172.5","count":"20"},{"key":"180.0","count":"36"},{"key":"187.5","count":"22"},{"key":"195.0","count":"39"},{"key":"202.5","count":"14"},{"key":"210.0","count":"21"},{"key":"217.5","count":"15"},{"key":"225.0","count":"21"},{"key":"232.5","count":"13"},{"key":"240.0","count":"17"},{"key":"247.5","count":"22"},{"key":"255.0","count":"13"},{"key":"262.5","count":"5"},{"key":"270.0","count":"19"},{"key":"277.5","count":"12"},{"key":"285.0","count":"14"},{"key":"292.5","count":"3"}],"interval":"7.5","range":{"min":"0","max":"300"}}'>
+            <div class="drag-brush total-price" data-value='{"key":"totalPriceEnum","value":null,"buckets":[{"key":"0","count":"0"},{"key":"7.5","count":"0"},{"key":"15.0","count":"9"},{"key":"22.5","count":"22"},{"key":"30.0","count":"47"},{"key":"37.5","count":"69"},{"key":"45.0","count":"103"},{"key":"52.5","count":"95"},{"key":"60.0","count":"100"},{"key":"67.5","count":"109"},{"key":"75.0","count":"103"},{"key":"82.5","count":"100"},{"key":"90.0","count":"110"},{"key":"97.5","count":"72"},{"key":"105.0","count":"88"},{"key":"112.5","count":"72"},{"key":"120.0","count":"90"},{"key":"127.5","count":"54"},{"key":"135.0","count":"53"},{"key":"142.5","count":"40"},{"key":"150.0","count":"56"},{"key":"157.5","count":"39"},{"key":"165.0","count":"36"},{"key":"172.5","count":"22"},{"key":"180.0","count":"37"},{"key":"187.5","count":"22"},{"key":"195.0","count":"39"},{"key":"202.5","count":"15"},{"key":"210.0","count":"21"},{"key":"217.5","count":"15"},{"key":"225.0","count":"22"},{"key":"232.5","count":"14"},{"key":"240.0","count":"18"},{"key":"247.5","count":"22"},{"key":"255.0","count":"13"},{"key":"262.5","count":"5"},{"key":"270.0","count":"19"},{"key":"277.5","count":"12"},{"key":"285.0","count":"14"},{"key":"292.5","count":"3"}],"interval":"7.5","range":{"min":"0","max":"300"}}'>
                 <div class="list-main-wrapper">
                     <ul class="list-container">
                         
@@ -1674,7 +1673,7 @@ var LjUserTrack = {
                 </div>
             </div>
 
-            <div class="drag-brush avg-price hide" data-value='{"key":"avgPriceEnum","value":null,"buckets":[{"key":"0.0","count":"4"},{"key":"750","count":"0"},{"key":"1500","count":"0"},{"key":"2250","count":"0"},{"key":"3000.0","count":"4"},{"key":"3750.0","count":"21"},{"key":"4500.0","count":"51"},{"key":"5250.0","count":"51"},{"key":"6000.0","count":"79"},{"key":"6750.0","count":"80"},{"key":"7500.0","count":"87"},{"key":"8250.0","count":"107"},{"key":"9000.0","count":"96"},{"key":"9750.0","count":"75"},{"key":"10500.0","count":"81"},{"key":"11250.0","count":"53"},{"key":"12000.0","count":"104"},{"key":"12750.0","count":"82"},{"key":"13500.0","count":"85"},{"key":"14250.0","count":"57"},{"key":"15000.0","count":"73"},{"key":"15750.0","count":"58"},{"key":"16500.0","count":"52"},{"key":"17250.0","count":"31"},{"key":"18000.0","count":"38"},{"key":"18750.0","count":"37"},{"key":"19500.0","count":"74"},{"key":"20250.0","count":"10"},{"key":"21000.0","count":"15"},{"key":"21750.0","count":"15"},{"key":"22500.0","count":"25"},{"key":"23250.0","count":"7"},{"key":"24000.0","count":"16"},{"key":"24750.0","count":"47"},{"key":"25500.0","count":"12"},{"key":"26250.0","count":"5"},{"key":"27000.0","count":"16"},{"key":"27750.0","count":"23"},{"key":"28500.0","count":"6"},{"key":"29250.0","count":"2"}],"interval":"750","range":{"min":"0","max":"30000"}}'>
+            <div class="drag-brush avg-price hide" data-value='{"key":"avgPriceEnum","value":null,"buckets":[{"key":"0.0","count":"4"},{"key":"750","count":"0"},{"key":"1500","count":"0"},{"key":"2250","count":"0"},{"key":"3000.0","count":"4"},{"key":"3750.0","count":"21"},{"key":"4500.0","count":"51"},{"key":"5250.0","count":"51"},{"key":"6000.0","count":"79"},{"key":"6750.0","count":"79"},{"key":"7500.0","count":"90"},{"key":"8250.0","count":"107"},{"key":"9000.0","count":"95"},{"key":"9750.0","count":"75"},{"key":"10500.0","count":"78"},{"key":"11250.0","count":"52"},{"key":"12000.0","count":"104"},{"key":"12750.0","count":"84"},{"key":"13500.0","count":"84"},{"key":"14250.0","count":"57"},{"key":"15000.0","count":"73"},{"key":"15750.0","count":"57"},{"key":"16500.0","count":"52"},{"key":"17250.0","count":"32"},{"key":"18000.0","count":"40"},{"key":"18750.0","count":"37"},{"key":"19500.0","count":"74"},{"key":"20250.0","count":"10"},{"key":"21000.0","count":"15"},{"key":"21750.0","count":"15"},{"key":"22500.0","count":"25"},{"key":"23250.0","count":"7"},{"key":"24000.0","count":"17"},{"key":"24750.0","count":"47"},{"key":"25500.0","count":"11"},{"key":"26250.0","count":"5"},{"key":"27000.0","count":"17"},{"key":"27750.0","count":"23"},{"key":"28500.0","count":"6"},{"key":"29250.0","count":"2"}],"interval":"750","range":{"min":"0","max":"30000"}}'>
                 <div class="list-main-wrapper">
                     <ul class="list-container">
                         
@@ -1711,7 +1710,7 @@ var LjUserTrack = {
                 <span class="area-desc">面积</span>
                 <span class="unit">(平)</span>
             </div>
-            <div class="drag-brush area-drag-brush" data-value='{"key":"buildArea","value":null,"buckets":[{"key":"0","count":"0"},{"key":"7.5","count":"1"},{"key":"15","count":"0"},{"key":"22.5","count":"6"},{"key":"30","count":"0"},{"key":"37.5","count":"62"},{"key":"45","count":"0"},{"key":"52.5","count":"61"},{"key":"60","count":"0"},{"key":"67.5","count":"70"},{"key":"75","count":"0"},{"key":"82.5","count":"113"},{"key":"90","count":"0"},{"key":"97.5","count":"133"},{"key":"105","count":"0"},{"key":"112.5","count":"133"},{"key":"120","count":"0"},{"key":"127.5","count":"97"},{"key":"135","count":"0"},{"key":"142.5","count":"67"},{"key":"150","count":"0"},{"key":"157.5","count":"27"},{"key":"165","count":"0"},{"key":"172.5","count":"18"},{"key":"180","count":"0"},{"key":"187.5","count":"14"},{"key":"195","count":"0"},{"key":"202.5","count":"9"},{"key":"210","count":"0"},{"key":"217.5","count":"12"},{"key":"225","count":"0"},{"key":"232.5","count":"5"},{"key":"240","count":"0"},{"key":"247.5","count":"7"},{"key":"255","count":"0"},{"key":"262.5","count":"3"},{"key":"270","count":"0"},{"key":"277.5","count":"7"},{"key":"285","count":"0"},{"key":"292.5","count":"4"}],"interval":"7.5","range":{"min":"0","max":"300"}}'>
+            <div class="drag-brush area-drag-brush" data-value='{"key":"buildArea","value":null,"buckets":[{"key":"0","count":"0"},{"key":"7.5","count":"1"},{"key":"15","count":"0"},{"key":"22.5","count":"6"},{"key":"30","count":"0"},{"key":"37.5","count":"61"},{"key":"45","count":"0"},{"key":"52.5","count":"60"},{"key":"60","count":"0"},{"key":"67.5","count":"71"},{"key":"75","count":"0"},{"key":"82.5","count":"113"},{"key":"90","count":"0"},{"key":"97.5","count":"134"},{"key":"105","count":"0"},{"key":"112.5","count":"141"},{"key":"120","count":"0"},{"key":"127.5","count":"101"},{"key":"135","count":"0"},{"key":"142.5","count":"66"},{"key":"150","count":"0"},{"key":"157.5","count":"27"},{"key":"165","count":"0"},{"key":"172.5","count":"18"},{"key":"180","count":"0"},{"key":"187.5","count":"14"},{"key":"195","count":"0"},{"key":"202.5","count":"9"},{"key":"210","count":"0"},{"key":"217.5","count":"12"},{"key":"225","count":"0"},{"key":"232.5","count":"5"},{"key":"240","count":"0"},{"key":"247.5","count":"7"},{"key":"255","count":"0"},{"key":"262.5","count":"3"},{"key":"270","count":"0"},{"key":"277.5","count":"7"},{"key":"285","count":"0"},{"key":"292.5","count":"4"}],"interval":"7.5","range":{"min":"0","max":"300"}}'>
                 <div class="list-main-wrapper">
                     <ul class="list-container">
                         
@@ -1744,7 +1743,7 @@ var LjUserTrack = {
         </div>
 
         
-        <div class="house-type-wrapper" data-value='[{"key":"1","count":"168"},{"key":"2","count":"190"},{"key":"3","count":"422"},{"key":"4","count":"290"},{"key":"5","count":"86"}]'>
+        <div class="house-type-wrapper" data-value='[{"key":"1","count":"169"},{"key":"2","count":"190"},{"key":"3","count":"426"},{"key":"4","count":"292"},{"key":"5","count":"86"}]'>
             <div class="type-title">
                 <div class="title-left">
                     <span class="title-desc">房型</span>
@@ -1951,7 +1950,7 @@ var LjUserTrack = {
         </div>
         <div class="resblock-have-find">
             <span>为您找到</span>
-            <span class="value">1579</span>
+            <span class="value">1585</span>
             <span>个成都新房</span>
         </div>
         <ul class="sort-list-wrapper">
@@ -1984,8 +1983,135 @@ var LjUserTrack = {
                 
                 
             
-                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="jntdabbih" data-ulog-exposure="xinfangpc_show=20005&location=991&project_name=jntdabbih&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070080&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}">
-                <a href="/loupan/p_jntdabbih/" class="resblock-img-wrapper " title="晶楠天地" data-xftrack="10138" data-other-action="location=991&project_name=jntdabbih&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070080&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070080&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}">
+                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="sxsbfabbid" data-ulog-exposure="xinfangpc_show=20005&location=991&project_name=sxsbfabbid&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578946&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18463&quot;}">
+                <a href="/loupan/p_sxsbfabbid/" class="resblock-img-wrapper " title="神仙树缤纷" data-xftrack="10138" data-other-action="location=991&project_name=sxsbfabbid&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578946&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18463&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578946&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18463&quot;}">
+                    <img alt="神仙树缤纷楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/42e2343a-85d9-488c-adea-d97a2090bf84.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
+                    <ul class="icon-wrapper">
+                        
+                        
+                            
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                
+                            
+                        
+                                            </ul>
+                    
+                    <div class="watermark">效果图</div>
+                </a>
+                <div class="resblock-desc-wrapper">
+                    <div class="resblock-name">
+                        <a href="/loupan/p_sxsbfabbid/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=991&project_name=sxsbfabbid&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578946&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18463&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578946&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18463&quot;}">神仙树缤纷</a>
+                        <span class="resblock-type" style="background: #DAAC24;">底商</span>
+                        <span class="sale-status" style="background: #C0C5CF;">售罄</span>
+                    </div>
+                    <div class="resblock-location">
+                        <span>高新</span>
+                        <i class="split">/</i>
+                        <span>新北</span>
+                        <i class="split">/</i>
+                        <a href="/loupan/p_sxsbfabbid/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578946&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18463&quot;}">新义西街96号</a>
+                    </div>
+                    <a class="resblock-room" href="/loupan/p_sxsbfabbid/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578946&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18463&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578946&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18463&quot;}">
+                        
+                    </a>
+                    <div class="resblock-area">
+                        <span></span>
+                    </div>
+                    <div class="resblock-agent">
+                        
+                        
+                    </div>
+                    <div class="resblock-tag">
+                                                    <span>绿化率高</span>
+                                                    <span>车位充足</span>
+                        
+                    </div>
+                    <div class="resblock-price">
+                        <div class="main-price">
+                                                            <span class="number">20000</span>
+                                <span class="desc">&nbsp;元/平(均价)</span>
+                                                    </div>
+                                                                                                </div>
+                                            <div class="resblock-follow" data-follow="noFollow">关注</div>
+                                    </div>
+            </li>
+                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="bthfggabbig" data-ulog-exposure="xinfangpc_show=20005&location=992&project_name=bthfggabbig&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578947&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18466&quot;}">
+                <a href="/loupan/p_bthfggabbig/" class="resblock-img-wrapper " title="邦泰华府公馆" data-xftrack="10138" data-other-action="location=992&project_name=bthfggabbig&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578947&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18466&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578947&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18466&quot;}">
+                    <img alt="邦泰华府公馆楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/fae4c81c-7ee9-4b63-bde5-d7ba0f5e2d3a.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
+                    <ul class="icon-wrapper">
+                        
+                        
+                            
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                
+                            
+                        
+                                            </ul>
+                    
+                    <div class="watermark">效果图</div>
+                </a>
+                <div class="resblock-desc-wrapper">
+                    <div class="resblock-name">
+                        <a href="/loupan/p_bthfggabbig/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=992&project_name=bthfggabbig&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578947&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18466&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578947&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18466&quot;}">邦泰华府公馆</a>
+                        <span class="resblock-type" style="background: #DAAC24;">底商</span>
+                        <span class="sale-status" style="background: #C0C5CF;">售罄</span>
+                    </div>
+                    <div class="resblock-location">
+                        <span>双流</span>
+                        <i class="split">/</i>
+                        <span>文星镇</span>
+                        <i class="split">/</i>
+                        <a href="/loupan/p_bthfggabbig/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578947&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18466&quot;}">双华路三段(四川现代职业技术学院对面)</a>
+                    </div>
+                    <a class="resblock-room" href="/loupan/p_bthfggabbig/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578947&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18466&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578947&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18466&quot;}">
+                        
+                    </a>
+                    <div class="resblock-area">
+                        <span></span>
+                    </div>
+                    <div class="resblock-agent">
+                        
+                        
+                    </div>
+                    <div class="resblock-tag">
+                                                    <span>品牌房企</span>
+                                                    <span>绿化率高</span>
+                                                    <span>车位充足</span>
+                        
+                    </div>
+                    <div class="resblock-price">
+                        <div class="main-price">
+                                                            <span class="number">23000</span>
+                                <span class="desc">&nbsp;元/平(均价)</span>
+                                                    </div>
+                                                                                                </div>
+                                            <div class="resblock-follow" data-follow="noFollow">关注</div>
+                                    </div>
+            </li>
+                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="jntdabbih" data-ulog-exposure="xinfangpc_show=20005&location=993&project_name=jntdabbih&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578948&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}">
+                <a href="/loupan/p_jntdabbih/" class="resblock-img-wrapper " title="晶楠天地" data-xftrack="10138" data-other-action="location=993&project_name=jntdabbih&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578948&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578948&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}">
                     <img alt="晶楠天地楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/699ade28-ec4b-4510-9a62-fff70e11d302.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
                     <ul class="icon-wrapper">
                         
@@ -2012,7 +2138,7 @@ var LjUserTrack = {
                 </a>
                 <div class="resblock-desc-wrapper">
                     <div class="resblock-name">
-                        <a href="/loupan/p_jntdabbih/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=991&project_name=jntdabbih&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070080&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070080&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}">晶楠天地</a>
+                        <a href="/loupan/p_jntdabbih/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=993&project_name=jntdabbih&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578948&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578948&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}">晶楠天地</a>
                         <span class="resblock-type" style="background: #DAAC24;">底商</span>
                         <span class="sale-status" style="background: #C0C5CF;">售罄</span>
                     </div>
@@ -2021,9 +2147,9 @@ var LjUserTrack = {
                         <i class="split">/</i>
                         <span>五大花园</span>
                         <i class="split">/</i>
-                        <a href="/loupan/p_jntdabbih/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070080&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}">晋吉南路82号</a>
+                        <a href="/loupan/p_jntdabbih/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578948&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}">晋吉南路82号</a>
                     </div>
-                    <a class="resblock-room" href="/loupan/p_jntdabbih/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070080&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070080&quot;,&quot;fb_item_location&quot;:&quot;0&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}">
+                    <a class="resblock-room" href="/loupan/p_jntdabbih/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578948&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578948&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18467&quot;}">
                         
                     </a>
                     <div class="resblock-area">
@@ -2035,7 +2161,6 @@ var LjUserTrack = {
                     </div>
                     <div class="resblock-tag">
                                                     <span>品牌房企</span>
-                                                    <span>近地铁</span>
                         
                     </div>
                     <div class="resblock-price">
@@ -2047,8 +2172,8 @@ var LjUserTrack = {
                                             <div class="resblock-follow" data-follow="noFollow">关注</div>
                                     </div>
             </li>
-                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="wcljabbii" data-ulog-exposure="xinfangpc_show=20005&location=992&project_name=wcljabbii&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070081&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}">
-                <a href="/loupan/p_wcljabbii/" class="resblock-img-wrapper " title="万辰乐居" data-xftrack="10138" data-other-action="location=992&project_name=wcljabbii&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070081&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070081&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}">
+                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="wcljabbii" data-ulog-exposure="xinfangpc_show=20005&location=994&project_name=wcljabbii&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578949&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}">
+                <a href="/loupan/p_wcljabbii/" class="resblock-img-wrapper " title="万辰乐居" data-xftrack="10138" data-other-action="location=994&project_name=wcljabbii&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578949&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578949&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}">
                     <img alt="万辰乐居楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/57e59307-1cc2-4d91-9cc1-0e00efa6358a.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
                     <ul class="icon-wrapper">
                         
@@ -2075,7 +2200,7 @@ var LjUserTrack = {
                 </a>
                 <div class="resblock-desc-wrapper">
                     <div class="resblock-name">
-                        <a href="/loupan/p_wcljabbii/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=992&project_name=wcljabbii&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070081&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070081&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}">万辰乐居</a>
+                        <a href="/loupan/p_wcljabbii/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=994&project_name=wcljabbii&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578949&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578949&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}">万辰乐居</a>
                         <span class="resblock-type" style="background: #DAAC24;">底商</span>
                         <span class="sale-status" style="background: #C0C5CF;">售罄</span>
                     </div>
@@ -2084,9 +2209,9 @@ var LjUserTrack = {
                         <i class="split">/</i>
                         <span>新津</span>
                         <i class="split">/</i>
-                        <a href="/loupan/p_wcljabbii/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070081&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}">花源镇花源大道290号</a>
+                        <a href="/loupan/p_wcljabbii/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578949&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}">花源镇花源大道290号</a>
                     </div>
-                    <a class="resblock-room" href="/loupan/p_wcljabbii/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070081&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070081&quot;,&quot;fb_item_location&quot;:&quot;1&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}">
+                    <a class="resblock-room" href="/loupan/p_wcljabbii/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578949&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578949&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18468&quot;}">
                         
                     </a>
                     <div class="resblock-area">
@@ -2112,8 +2237,8 @@ var LjUserTrack = {
                                             <div class="resblock-follow" data-follow="noFollow">关注</div>
                                     </div>
             </li>
-                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="jybydabbik" data-ulog-exposure="xinfangpc_show=20005&location=993&project_name=jybydabbik&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070082&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}">
-                <a href="/loupan/p_jybydabbik/" class="resblock-img-wrapper " title="金阳不夜都" data-xftrack="10138" data-other-action="location=993&project_name=jybydabbik&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070082&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070082&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}">
+                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="jybydabbik" data-ulog-exposure="xinfangpc_show=20005&location=995&project_name=jybydabbik&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578950&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}">
+                <a href="/loupan/p_jybydabbik/" class="resblock-img-wrapper " title="金阳不夜都" data-xftrack="10138" data-other-action="location=995&project_name=jybydabbik&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578950&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578950&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}">
                     <img alt="金阳不夜都楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/b1d977a1-819f-41aa-ab7b-0f5fe9381989.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
                     <ul class="icon-wrapper">
                         
@@ -2140,7 +2265,7 @@ var LjUserTrack = {
                 </a>
                 <div class="resblock-desc-wrapper">
                     <div class="resblock-name">
-                        <a href="/loupan/p_jybydabbik/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=993&project_name=jybydabbik&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070082&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070082&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}">金阳不夜都</a>
+                        <a href="/loupan/p_jybydabbik/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=995&project_name=jybydabbik&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578950&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578950&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}">金阳不夜都</a>
                         <span class="resblock-type" style="background: #DAAC24;">底商</span>
                         <span class="sale-status" style="background: #C0C5CF;">售罄</span>
                     </div>
@@ -2149,9 +2274,9 @@ var LjUserTrack = {
                         <i class="split">/</i>
                         <span>武侯立交</span>
                         <i class="split">/</i>
-                        <a href="/loupan/p_jybydabbik/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070082&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}">西三环路三段草金立交内侧万顺二路155号</a>
+                        <a href="/loupan/p_jybydabbik/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578950&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}">西三环路三段草金立交内侧万顺二路155号</a>
                     </div>
-                    <a class="resblock-room" href="/loupan/p_jybydabbik/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070082&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070082&quot;,&quot;fb_item_location&quot;:&quot;2&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}">
+                    <a class="resblock-room" href="/loupan/p_jybydabbik/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578950&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578950&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18470&quot;}">
                         
                     </a>
                     <div class="resblock-area">
@@ -2174,8 +2299,8 @@ var LjUserTrack = {
                                             <div class="resblock-follow" data-follow="noFollow">关注</div>
                                     </div>
             </li>
-                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="zzxfltabbin" data-ulog-exposure="xinfangpc_show=20005&location=994&project_name=zzxfltabbin&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070083&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}">
-                <a href="/loupan/p_zzxfltabbin/" class="resblock-img-wrapper " title="中筑西府兰庭" data-xftrack="10138" data-other-action="location=994&project_name=zzxfltabbin&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070083&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070083&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}">
+                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="zzxfltabbin" data-ulog-exposure="xinfangpc_show=20005&location=996&project_name=zzxfltabbin&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578951&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}">
+                <a href="/loupan/p_zzxfltabbin/" class="resblock-img-wrapper " title="中筑西府兰庭" data-xftrack="10138" data-other-action="location=996&project_name=zzxfltabbin&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578951&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578951&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}">
                     <img alt="中筑西府兰庭楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/2992ffd5-f8fa-4681-8c30-07b117131fbb.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
                     <ul class="icon-wrapper">
                         
@@ -2202,7 +2327,7 @@ var LjUserTrack = {
                 </a>
                 <div class="resblock-desc-wrapper">
                     <div class="resblock-name">
-                        <a href="/loupan/p_zzxfltabbin/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=994&project_name=zzxfltabbin&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070083&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070083&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}">中筑西府兰庭</a>
+                        <a href="/loupan/p_zzxfltabbin/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=996&project_name=zzxfltabbin&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578951&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578951&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}">中筑西府兰庭</a>
                         <span class="resblock-type" style="background: #DAAC24;">底商</span>
                         <span class="sale-status" style="background: #C0C5CF;">售罄</span>
                     </div>
@@ -2211,9 +2336,9 @@ var LjUserTrack = {
                         <i class="split">/</i>
                         <span>新双楠</span>
                         <i class="split">/</i>
-                        <a href="/loupan/p_zzxfltabbin/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070083&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}">福锦路一段669号</a>
+                        <a href="/loupan/p_zzxfltabbin/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578951&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}">福锦路一段669号</a>
                     </div>
-                    <a class="resblock-room" href="/loupan/p_zzxfltabbin/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070083&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070083&quot;,&quot;fb_item_location&quot;:&quot;3&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}">
+                    <a class="resblock-room" href="/loupan/p_zzxfltabbin/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578951&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578951&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18473&quot;}">
                         
                     </a>
                     <div class="resblock-area">
@@ -2238,8 +2363,8 @@ var LjUserTrack = {
                                             <div class="resblock-follow" data-follow="noFollow">关注</div>
                                     </div>
             </li>
-                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="wmuabbip" data-ulog-exposure="xinfangpc_show=20005&location=995&project_name=wmuabbip&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070084&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}">
-                <a href="/loupan/p_wmuabbip/" class="resblock-img-wrapper " title="万茂UIC" data-xftrack="10138" data-other-action="location=995&project_name=wmuabbip&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070084&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070084&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}">
+                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="wmuabbip" data-ulog-exposure="xinfangpc_show=20005&location=997&project_name=wmuabbip&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578952&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}">
+                <a href="/loupan/p_wmuabbip/" class="resblock-img-wrapper " title="万茂UIC" data-xftrack="10138" data-other-action="location=997&project_name=wmuabbip&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578952&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578952&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}">
                     <img alt="万茂UIC楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/f7772839-dced-495f-9fdb-72ede4c1e7b8.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
                     <ul class="icon-wrapper">
                         
@@ -2266,7 +2391,7 @@ var LjUserTrack = {
                 </a>
                 <div class="resblock-desc-wrapper">
                     <div class="resblock-name">
-                        <a href="/loupan/p_wmuabbip/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=995&project_name=wmuabbip&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070084&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070084&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}">万茂UIC</a>
+                        <a href="/loupan/p_wmuabbip/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=997&project_name=wmuabbip&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578952&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578952&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}">万茂UIC</a>
                         <span class="resblock-type" style="background: #DAAC24;">底商</span>
                         <span class="sale-status" style="background: #C0C5CF;">售罄</span>
                     </div>
@@ -2275,9 +2400,9 @@ var LjUserTrack = {
                         <i class="split">/</i>
                         <span>新双楠</span>
                         <i class="split">/</i>
-                        <a href="/loupan/p_wmuabbip/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070084&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}">聚龙路1251号</a>
+                        <a href="/loupan/p_wmuabbip/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578952&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}">聚龙路1251号</a>
                     </div>
-                    <a class="resblock-room" href="/loupan/p_wmuabbip/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070084&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070084&quot;,&quot;fb_item_location&quot;:&quot;4&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}">
+                    <a class="resblock-room" href="/loupan/p_wmuabbip/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578952&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578952&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18475&quot;}">
                         
                     </a>
                     <div class="resblock-area">
@@ -2300,8 +2425,8 @@ var LjUserTrack = {
                                             <div class="resblock-follow" data-follow="noFollow">关注</div>
                                     </div>
             </li>
-                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="xjgjeqabbiu" data-ulog-exposure="xinfangpc_show=20005&location=996&project_name=xjgjeqabbiu&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070085&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}">
-                <a href="/loupan/p_xjgjeqabbiu/" class="resblock-img-wrapper " title="西锦国际二期" data-xftrack="10138" data-other-action="location=996&project_name=xjgjeqabbiu&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070085&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070085&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}">
+                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="xjgjeqabbiu" data-ulog-exposure="xinfangpc_show=20005&location=998&project_name=xjgjeqabbiu&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578953&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}">
+                <a href="/loupan/p_xjgjeqabbiu/" class="resblock-img-wrapper " title="西锦国际二期" data-xftrack="10138" data-other-action="location=998&project_name=xjgjeqabbiu&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578953&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578953&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}">
                     <img alt="西锦国际二期楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/ad26ce8e-e6a7-48b8-a36d-da5f1b81a65a.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
                     <ul class="icon-wrapper">
                         
@@ -2328,7 +2453,7 @@ var LjUserTrack = {
                 </a>
                 <div class="resblock-desc-wrapper">
                     <div class="resblock-name">
-                        <a href="/loupan/p_xjgjeqabbiu/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=996&project_name=xjgjeqabbiu&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070085&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070085&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}">西锦国际二期</a>
+                        <a href="/loupan/p_xjgjeqabbiu/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=998&project_name=xjgjeqabbiu&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578953&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578953&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}">西锦国际二期</a>
                         <span class="resblock-type" style="background: #DAAC24;">底商</span>
                         <span class="sale-status" style="background: #C0C5CF;">售罄</span>
                     </div>
@@ -2337,9 +2462,9 @@ var LjUserTrack = {
                         <i class="split">/</i>
                         <span>花牌坊</span>
                         <i class="split">/</i>
-                        <a href="/loupan/p_xjgjeqabbiu/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070085&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}">花牌坊北街99号</a>
+                        <a href="/loupan/p_xjgjeqabbiu/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578953&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}">花牌坊北街99号</a>
                     </div>
-                    <a class="resblock-room" href="/loupan/p_xjgjeqabbiu/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070085&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070085&quot;,&quot;fb_item_location&quot;:&quot;5&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}">
+                    <a class="resblock-room" href="/loupan/p_xjgjeqabbiu/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578953&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578953&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18480&quot;}">
                         
                     </a>
                     <div class="resblock-area">
@@ -2364,8 +2489,8 @@ var LjUserTrack = {
                                             <div class="resblock-follow" data-follow="noFollow">关注</div>
                                     </div>
             </li>
-                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="djdcmlfabbiv" data-ulog-exposure="xinfangpc_show=20005&location=997&project_name=djdcmlfabbiv&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070086&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}">
-                <a href="/loupan/p_djdcmlfabbiv/" class="resblock-img-wrapper " title="电建地产美立方" data-xftrack="10138" data-other-action="location=997&project_name=djdcmlfabbiv&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070086&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070086&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}">
+                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="djdcmlfabbiv" data-ulog-exposure="xinfangpc_show=20005&location=999&project_name=djdcmlfabbiv&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578954&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}">
+                <a href="/loupan/p_djdcmlfabbiv/" class="resblock-img-wrapper " title="电建地产美立方" data-xftrack="10138" data-other-action="location=999&project_name=djdcmlfabbiv&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578954&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578954&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}">
                     <img alt="电建地产美立方楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/02ddbfd0-fe11-4577-ae66-b6d69a5de6e4.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
                     <ul class="icon-wrapper">
                         
@@ -2392,7 +2517,7 @@ var LjUserTrack = {
                 </a>
                 <div class="resblock-desc-wrapper">
                     <div class="resblock-name">
-                        <a href="/loupan/p_djdcmlfabbiv/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=997&project_name=djdcmlfabbiv&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070086&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070086&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}">电建地产美立方</a>
+                        <a href="/loupan/p_djdcmlfabbiv/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=999&project_name=djdcmlfabbiv&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578954&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578954&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}">电建地产美立方</a>
                         <span class="resblock-type" style="background: #DAAC24;">底商</span>
                         <span class="sale-status" style="background: #C0C5CF;">售罄</span>
                     </div>
@@ -2401,9 +2526,9 @@ var LjUserTrack = {
                         <i class="split">/</i>
                         <span>理工大</span>
                         <i class="split">/</i>
-                        <a href="/loupan/p_djdcmlfabbiv/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070086&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}">成致路电建地产美立方</a>
+                        <a href="/loupan/p_djdcmlfabbiv/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578954&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}">成致路电建地产美立方</a>
                     </div>
-                    <a class="resblock-room" href="/loupan/p_djdcmlfabbiv/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070086&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070086&quot;,&quot;fb_item_location&quot;:&quot;6&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}">
+                    <a class="resblock-room" href="/loupan/p_djdcmlfabbiv/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578954&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578954&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18481&quot;}">
                         
                     </a>
                     <div class="resblock-area">
@@ -2427,8 +2552,8 @@ var LjUserTrack = {
                                             <div class="resblock-follow" data-follow="noFollow">关注</div>
                                     </div>
             </li>
-                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="jzgjabbjj" data-ulog-exposure="xinfangpc_show=20005&location=998&project_name=jzgjabbjj&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070087&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}">
-                <a href="/loupan/p_jzgjabbjj/" class="resblock-img-wrapper " title="桔子国际" data-xftrack="10138" data-other-action="location=998&project_name=jzgjabbjj&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070087&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070087&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}">
+                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="jzgjabbjj" data-ulog-exposure="xinfangpc_show=20005&location=1000&project_name=jzgjabbjj&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578955&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}">
+                <a href="/loupan/p_jzgjabbjj/" class="resblock-img-wrapper " title="桔子国际" data-xftrack="10138" data-other-action="location=1000&project_name=jzgjabbjj&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578955&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578955&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}">
                     <img alt="桔子国际楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/473edea5-3dbc-44e8-b0a5-d5c3674c9c97.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
                     <ul class="icon-wrapper">
                         
@@ -2455,7 +2580,7 @@ var LjUserTrack = {
                 </a>
                 <div class="resblock-desc-wrapper">
                     <div class="resblock-name">
-                        <a href="/loupan/p_jzgjabbjj/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=998&project_name=jzgjabbjj&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070087&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070087&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}">桔子国际</a>
+                        <a href="/loupan/p_jzgjabbjj/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=1000&project_name=jzgjabbjj&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578955&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578955&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}">桔子国际</a>
                         <span class="resblock-type" style="background: #DAAC24;">底商</span>
                         <span class="sale-status" style="background: #C0C5CF;">售罄</span>
                     </div>
@@ -2464,9 +2589,9 @@ var LjUserTrack = {
                         <i class="split">/</i>
                         <span>石人小区</span>
                         <i class="split">/</i>
-                        <a href="/loupan/p_jzgjabbjj/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070087&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}">西一环三段5号（地铁中医附院战D出口200米处）</a>
+                        <a href="/loupan/p_jzgjabbjj/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578955&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}">西一环三段5号（地铁中医附院战D出口200米处）</a>
                     </div>
-                    <a class="resblock-room" href="/loupan/p_jzgjabbjj/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070087&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070087&quot;,&quot;fb_item_location&quot;:&quot;7&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}">
+                    <a class="resblock-room" href="/loupan/p_jzgjabbjj/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578955&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;151381743514472449&quot;,&quot;fb_expo_id&quot;:&quot;151381743514578955&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18495&quot;}">
                         
                     </a>
                     <div class="resblock-area">
@@ -2477,140 +2602,14 @@ var LjUserTrack = {
                         
                     </div>
                     <div class="resblock-tag">
+                                                    <span>近地铁</span>
                                                     <span>绿化率高</span>
                                                     <span>车位充足</span>
-                                                    <span>近地铁</span>
                         
                     </div>
                     <div class="resblock-price">
                         <div class="main-price">
                                                             <span class="number">60000</span>
-                                <span class="desc">&nbsp;元/平(均价)</span>
-                                                    </div>
-                                                                                                </div>
-                                            <div class="resblock-follow" data-follow="noFollow">关注</div>
-                                    </div>
-            </li>
-                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="czshtabbjm" data-ulog-exposure="xinfangpc_show=20005&location=999&project_name=czshtabbjm&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070088&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18498&quot;}">
-                <a href="/loupan/p_czshtabbjm/" class="resblock-img-wrapper " title="城置尚豪庭" data-xftrack="10138" data-other-action="location=999&project_name=czshtabbjm&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070088&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18498&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070088&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18498&quot;}">
-                    <img alt="城置尚豪庭楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/0c19ef04-8250-4d78-905e-61d976ce8d78.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
-                    <ul class="icon-wrapper">
-                        
-                        
-                            
-                            
-                        
-                        
-                        
-                            
-                                
-                                
-                            
-                        
-                        
-                            
-                                
-                                
-                            
-                        
-                                            </ul>
-                    
-                    <div class="watermark">效果图</div>
-                </a>
-                <div class="resblock-desc-wrapper">
-                    <div class="resblock-name">
-                        <a href="/loupan/p_czshtabbjm/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=999&project_name=czshtabbjm&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070088&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18498&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070088&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18498&quot;}">城置尚豪庭</a>
-                        <span class="resblock-type" style="background: #B199FF;">商业</span>
-                        <span class="sale-status" style="background: #C0C5CF;">售罄</span>
-                    </div>
-                    <div class="resblock-location">
-                        <span>青羊</span>
-                        <i class="split">/</i>
-                        <span>草市街</span>
-                        <i class="split">/</i>
-                        <a href="/loupan/p_czshtabbjm/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070088&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18498&quot;}">草市街38号</a>
-                    </div>
-                    <a class="resblock-room" href="/loupan/p_czshtabbjm/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070088&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18498&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070088&quot;,&quot;fb_item_location&quot;:&quot;8&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18498&quot;}">
-                        
-                    </a>
-                    <div class="resblock-area">
-                        <span></span>
-                    </div>
-                    <div class="resblock-agent">
-                        
-                        
-                    </div>
-                    <div class="resblock-tag">
-                                                    <span>近地铁</span>
-                        
-                    </div>
-                    <div class="resblock-price">
-                        <div class="main-price">
-                                                            <span class="number">35000</span>
-                                <span class="desc">&nbsp;元/平(均价)</span>
-                                                    </div>
-                                                                                                </div>
-                                            <div class="resblock-follow" data-follow="noFollow">关注</div>
-                                    </div>
-            </li>
-                        <li class="resblock-list post_ulog_exposure_scroll has-results" data-project-name="lggyytabbjt" data-ulog-exposure="xinfangpc_show=20005&location=1000&project_name=lggyytabbjt&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070089&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18505&quot;}">
-                <a href="/loupan/p_lggyytabbjt/" class="resblock-img-wrapper " title="蓝光公园悦庭" data-xftrack="10138" data-other-action="location=1000&project_name=lggyytabbjt&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070089&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18505&quot;}" target="_blank" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070089&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18505&quot;}">
-                    <img alt="蓝光公园悦庭楼盘图片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/96976a5d-b9cd-4ae9-ad66-2d772808a0bf.jpg.592x432.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif">
-                    <ul class="icon-wrapper">
-                        
-                        
-                            
-                            
-                        
-                        
-                        
-                            
-                                
-                                
-                            
-                        
-                        
-                            
-                                
-                                
-                            
-                        
-                                            </ul>
-                    
-                    <div class="watermark">效果图</div>
-                </a>
-                <div class="resblock-desc-wrapper">
-                    <div class="resblock-name">
-                        <a href="/loupan/p_lggyytabbjt/" class="name " target="_blank" data-xftrack="10138" data-other-action="location=1000&project_name=lggyytabbjt&recommend_log_info=&strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070089&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18505&quot;}" data-source-type="recommend_projectlist"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070089&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18505&quot;}">蓝光公园悦庭</a>
-                        <span class="resblock-type" style="background: #FB9252;">住宅</span>
-                        <span class="sale-status" style="background: #C0C5CF;">售罄</span>
-                    </div>
-                    <div class="resblock-location">
-                        <span>成华</span>
-                        <i class="split">/</i>
-                        <span>万年场</span>
-                        <i class="split">/</i>
-                        <a href="/loupan/p_lggyytabbjt/#around" target="_blank" data-xftrack="10254" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070089&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18505&quot;}">崔家店南路2号</a>
-                    </div>
-                    <a class="resblock-room" href="/loupan/p_lggyytabbjt/#house-online" data-xftrack="10255" target="_blank" data-other-action="strategy_info={&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070089&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18505&quot;}"  data-strategy-info="{&quot;fb_query_id&quot;:&quot;150042164849176576&quot;,&quot;fb_expo_id&quot;:&quot;150042164849070089&quot;,&quot;fb_item_location&quot;:&quot;9&quot;,&quot;fb_service_id&quot;:&quot;1012810002&quot;,&quot;fb_ab_test_flag&quot;:&quot;[]&quot;,&quot;fb_item_id&quot;:&quot;18505&quot;}">
-                        
-                    </a>
-                    <div class="resblock-area">
-                        <span></span>
-                    </div>
-                    <div class="resblock-agent">
-                        
-                        
-                    </div>
-                    <div class="resblock-tag">
-                                                    <span>近地铁</span>
-                                                    <span>绿化率高</span>
-                                                    <span>车位充足</span>
-                        
-                    </div>
-                    <div class="resblock-price">
-                        <div class="main-price">
-                                                            <span class="number">13600</span>
                                 <span class="desc">&nbsp;元/平(均价)</span>
                                                     </div>
                                                                                                 </div>
@@ -2990,14 +2989,14 @@ var LjUserTrack = {
                 </div>
             </div>
             <div class="fr">
-                                    <img src="//s1.ljcdn.com/phoenix/static/dist/common/img/erweima.png?_v=20190110202758">
+                                    <img src="//s1.ljcdn.com/phoenix/static/dist/common/img/erweima.png?_v=20190219155705">
                             </div>
             <div class="clear"></div>
         </div>
         <div class="bottom">
             <div class="copyright fl">
                 链家网（北京）科技有限公司 | 网络经营许可证 京ICP备16057509号-2 | © Copyright©2010-2019 链家网Lianjia.com版权所有<br>
-                <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802024019" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="//s1.ljcdn.com/phoenix/static/dist/common/img/beian.png?_v=20190110202758" alt="京公网安备" style="float:left;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#888c8e;">京公网安备 11010802024019号</p></a>
+                <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802024019" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="//s1.ljcdn.com/phoenix/static/dist/common/img/beian.png?_v=20190219155705" alt="京公网安备" style="float:left;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#888c8e;">京公网安备 11010802024019号</p></a>
             </div>
             
         </div>
@@ -3034,7 +3033,7 @@ var LjUserTrack = {
                             <a href="//www.lianjia.com/client/" title="" target="_blank" data-bl="client" rel="nofollow">下载掌上链家</a>
                             <span class="popup popup-qr">
                                 <i></i>
-                                                                    <img src="//s1.ljcdn.com/phoenix/static/dist/common/img/sidebar_qr.png?_v=20190110202758" alt="下载掌上链家" width="61">
+                                                                    <img src="//s1.ljcdn.com/phoenix/static/dist/common/img/sidebar_qr.png?_v=20190219155705" alt="下载掌上链家" width="61">
                                                                 <em class="qr-title">链家APP</em>
                             </span>
                         </li>
@@ -3095,7 +3094,7 @@ var LjUserTrack = {
             </div>
         </div>
     </div>
-    <div class="closebok"><img src="//s1.ljcdn.com/phoenix/static/dist/common/img/close.png?_v=20190110202758"></div>
+    <div class="closebok"><img src="//s1.ljcdn.com/phoenix/static/dist/common/img/close.png?_v=20190219155705"></div>
 </div>
 
 
@@ -3106,8 +3105,8 @@ var LjUserTrack = {
     window.$ULOG.send = function(evtid, param) {
 	    window.$ULOG.buffer.push([evtid, param]);
     };
-    </script><script src="//s1.ljcdn.com/phoenix/static/dist/common/jquery.min.js?_v=20190110202758"></script><script src="//s1.ljcdn.com/phoenix/static/dist/common/ejs.min.js?_v=20190110202758"></script><script src="//s1.ljcdn.com/phoenix/static/dist/common/common.js?_v=20190110202758"></script><script src="//s1.ljcdn.com/phoenix/static/dist/common/template-ejs.js?_v=20190110202758"></script>
-    <script src="//s1.ljcdn.com/phoenix/static/dist/pages/list/index.js?_v=20190110202758"></script>
+    </script><script src="//s1.ljcdn.com/phoenix/static/dist/common/jquery.min.js?_v=20190219155705"></script><script src="//s1.ljcdn.com/phoenix/static/dist/common/ejs.min.js?_v=20190219155705"></script><script src="//s1.ljcdn.com/phoenix/static/dist/common/common.js?_v=20190219155705"></script><script src="//s1.ljcdn.com/phoenix/static/dist/common/template-ejs.js?_v=20190219155705"></script>
+    <script src="//s1.ljcdn.com/phoenix/static/dist/pages/list/index.js?_v=20190219155705"></script>
 <div style="display:none">
             <!-- google -->
             <script>
@@ -3615,7 +3614,7 @@ var LjUserTrack = {
             })();
 
             </script>
-        </div><!-- lianjia ulog --><div style="display:none"><script type="text/javascript">window.__UDL_CONFIG={'cid': '510100','f': document.referrer,'ljweb_channel_key':'loupan_index','sample_mark': '','ucid': ''};</script><div style="display:none"><script src="//s1.ljcdn.com/phoenix/static/dist/common/ljulog.js?_v=20190110202758"}"></script></div></div><!-- 成都试点GIO统计 --><script type='text/javascript'>
+        </div><!-- lianjia ulog --><div style="display:none"><script type="text/javascript">window.__UDL_CONFIG={'cid': '510100','f': document.referrer,'ljweb_channel_key':'loupan_index','sample_mark': '','ucid': ''};</script><div style="display:none"><script src="//s1.ljcdn.com/phoenix/static/dist/common/ljulog.js?_v=20190219155705"}"></script></div></div><!-- 成都试点GIO统计 --><script type='text/javascript'>
             var _vds = _vds || [];
             window._vds = _vds;
             (function(){
@@ -3629,7 +3628,7 @@ var LjUserTrack = {
                       s.parentNode.insertBefore(vds, s);
                   })();
              })();
-        </script><!-- LianjiaIM Style --><link property='stylesheet' rel="stylesheet" href="//s1.ljcdn.com/feroot/pc/asset/lianjiaIM/css/lianjiaim.css?_v=20190219"/><script src="//s1.ljcdn.com/web-im-sdk/static/1.0/lianjiaim1.0.min.js?_v=20190219"></script><script>(function() {$.listener.on('userInfo', function(data) {if (data && data.code === 1) {data.ucid = '';}if (typeof LianjiaIM !== 'undefined') {var ljim = new LianjiaIM({appid: "LIANJIANEW_WEB_20170703",appkey: "926ce7988b28cce5b4e09ca3bcf6b039",userData: data,staticRoot: 'https://s1.ljcdn.com/feroot/',login: function() { $('.btn-login').trigger('click')},userTrack: function(trackData) {var action = {};switch (trackData.event) {case 'openIm' :if (trackData.target) {action = {xinfangpc_click: '10229_1'};} else {action = {xinfangpc_click: '10229_2'};}break;case 'convClick' :if (trackData.convType === '1') {action = {xinfangpc_click: '10230',agent_id: trackData.agentId};} else {action = {xinfangpc_click: '10231',official_id: trackData.agentId};}break;case 'clickSend' :action = {xinfangpc_click: '10232'};break;default :if (trackData.ljweb_mod === 'imclick') {action = {xinfangpc_click: '10228'};}break;}window.$ULOG.send('10179', {action: action});}});}});})();</script><script type="text/javascript">
+        </script><!-- LianjiaIM Style --><link property='stylesheet' rel="stylesheet" href="//s1.ljcdn.com/feroot/pc/asset/lianjiaIM/css/lianjiaim.css?_v=20190222"/><script src="//s1.ljcdn.com/web-im-sdk/static/1.0/lianjiaim1.0.min.js?_v=20190222"></script><script>(function() {$.listener.on('userInfo', function(data) {if (data && data.code === 1) {data.ucid = '';}if (typeof LianjiaIM !== 'undefined') {var ljim = new LianjiaIM({appid: "LIANJIANEW_WEB_20170703",appkey: "926ce7988b28cce5b4e09ca3bcf6b039",userData: data,staticRoot: 'https://s1.ljcdn.com/feroot/',login: function() { $('.btn-login').trigger('click')},userTrack: function(trackData) {var action = {};switch (trackData.event) {case 'openIm' :if (trackData.target) {action = {xinfangpc_click: '10229_1'};} else {action = {xinfangpc_click: '10229_2'};}break;case 'convClick' :if (trackData.convType === '1') {action = {xinfangpc_click: '10230',agent_id: trackData.agentId};} else {action = {xinfangpc_click: '10231',official_id: trackData.agentId};}break;case 'clickSend' :action = {xinfangpc_click: '10232'};break;default :if (trackData.ljweb_mod === 'imclick') {action = {xinfangpc_click: '10228'};}break;}window.$ULOG.send('10179', {action: action});}});}});})();</script><script type="text/javascript">
   $.listener.on('userInfo', function (data) {
     window.loginData = data;
   });
