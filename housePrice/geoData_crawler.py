@@ -101,7 +101,10 @@ if __name__=='__main__':
     if len(addresses) != len(names):
         print('len(addresses)!=len(names)')
         sys.exit(-1)
-
+    
+    with open('housePrice_cd/hhhh.txt', 'r') as f:
+        downloaded_lines = f.read().split("\n")
+    downloaded_addresses = [i.split("\t")[0] for i in downloaded_lines]
     url="http://api.map.baidu.com/lbsapi/getpoint/index.html?qq-pf-to=pcqq.c2c"
     # 设置chrome选项
     chrome_options = Options()
@@ -112,7 +115,7 @@ if __name__=='__main__':
     driver.get(url)
 
     count = 0
-    for a in tqdm.tqdm(addresses):
+    for a in tqdm.tqdm(set(addresses) - set(downloaded_addresses)):
         driver.refresh()
         # if count<220:
         #     count+=1

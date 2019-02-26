@@ -10,7 +10,7 @@ def region_avgPrice_dict(csv_fpath):
     :param csv_fpath: 要读取csv文件的路径
     :return: region_avgPrice_dict
     """
-    with open("../../hhhh.txt","r") as f:
+    with open("housePrice_cd/hhhh.txt","r") as f:
         geo_list = f.read().split("\n")
     geo_dict = {}
     for geo in geo_list:
@@ -23,7 +23,7 @@ def region_avgPrice_dict(csv_fpath):
                 geo_dict[geo_name] = [float(geo_x),float(geo_y)]
 
     # print(geo_dict)
-    with open("cdfgj.csv","r") as f:
+    with open("housePrice_cd/housePrice/cdfgj.csv","r") as f:
         maxtrix = list(csv.reader(f))
     # maxtrix = csv.reader()
     item_names = maxtrix[0]
@@ -97,6 +97,7 @@ def draw_map(region_avgPrice_dict):
         visual_split_number=6,
         geo_cities_coords = geo_dict
     )
+
     geo.render()
     # map = Map("成都地图示例", width=1200, height=600)
     # map.add("", attrs, values, maptype='成都', is_visualmap=True,is_roam=True,is_map_symbol_show=False,
